@@ -49,3 +49,7 @@ of the grep output.
 (Of course, this is only a heuristic. To determine the
 exact number of crimes which were sexual assaults, one
 would have to manually read the description of each.)
+
+## License
+
+GNU AFFERO GENERAL PUBLIC LICENSE
