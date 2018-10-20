@@ -1,0 +1,3254 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html lang="en-US" class="ltie9"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+
+<head>
+<script>var added_by_webtools_is_responsive = true;</script>
+<meta charset="utf-8">
+<title>University of Illinois Police Campus Safety Notices</title>
+<link rel="shortcut icon" href="https://skins.webservices.illinois.edu/files/16223/favicon.ico" type="image/x-icon" />
+
+<!-- responsiveness -->
+<meta content="initial-scale=1, maximum-scale=1" name="viewport">
+<meta content="width=device-width" name="viewport">
+<link media="all" type="text/css" href="https://fonts.googleapis.com/css?family=Arvo%3A400%2C700%7CRaleway%3A400%2C600%2C500%2C300%2C700" id="publicsafety-fonts-css" rel="stylesheet">
+<link media="all" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" id="publicsafety-fontawesome-css" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js?ver=1.12.0" type="text/javascript"></script>
+<script src="https://skins.webservices.illinois.edu/files/16223/smartmenus.min.js" type="text/javascript"></script>
+<script src="https://skins.webservices.illinois.edu/files/16223/smartmenus.keyboard.min.js" type="text/javascript"></script>
+<script src="https://skins.webservices.illinois.edu/files/16223/functions.min.js" type="text/javascript"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js" type="text/javascript"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script>
+
+<!--[if lt IE 9]>
+<script src="https://skins.webservices.illinois.edu/files/16223/html5shiv.min.js" type="text/javascript"></script>
+<script src="https://skins.webservices.illinois.edu/files/16223/respond.min.js" type="text/javascript"></script>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<![endif]-->
+<style type="text/css">
+.light, .subpage #pc-2668 #edu-il-ws-2668-153-wrapper .edu-il-ws-2668-153-section-box .edu-il-ws-2668-153-description, a, dd, li, p, span, td {
+	font-weight: 300
+}
+.normal {
+	font-weight: 400
+}
+.bold {
+	font-weight: 700
+}
+.offscreen {
+	position: absolute;
+	left: -99999px;
+	height: 1px;
+	width: 1px
+}
+/*! normalize.css v3.0.1 | MIT License | git.io/normalize */html {
+	font-family: sans-serif;
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%
+}
+body {
+	margin: 0
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+	display: block
+}
+audio, canvas, progress, video {
+	display: inline-block;
+	vertical-align: baseline
+}
+audio:not([controls]) {
+	display: none;
+	height: 0
+}
+[hidden], template {
+	display: none
+}
+a {
+	background: transparent
+}
+a:active, a:hover {
+	outline: 0
+}
+abbr[title] {
+	border-bottom: 1px dotted
+}
+b, strong {
+	font-weight: 700
+}
+dfn {
+	font-style: italic
+}
+h1 {
+	font-size: 2em;
+	margin: .67em 0
+}
+mark {
+	background: #ff0;
+	color: #000
+}
+small {
+	font-size: 80%
+}
+sub, sup {
+	font-size: 75%;
+	line-height: 0;
+	position: relative;
+	vertical-align: baseline
+}
+sup {
+	top: -.5em
+}
+sub {
+	bottom: -.25em
+}
+img {
+	border: 0
+}
+svg:not(:root) {
+	overflow: hidden
+}
+figure {
+	margin: 1em 40px
+}
+hr {
+	box-sizing: content-box;
+	height: 0
+}
+pre {
+	overflow: auto
+}
+code, kbd, pre, samp {
+	font-family: monospace;
+	font-size: 1em
+}
+button, input, optgroup, select, textarea {
+	color: inherit;
+	font: inherit;
+	margin: 0
+}
+button {
+	overflow: visible
+}
+button, select {
+	text-transform: none
+}
+button, html input[type=button], input[type=reset], input[type=submit] {
+	-webkit-appearance: button;
+	cursor: pointer
+}
+button[disabled], html input[disabled] {
+	cursor: default
+}
+button::-moz-focus-inner, input::-moz-focus-inner {
+border:0;
+padding:0
+}
+input {
+	line-height: normal
+}
+input[type=checkbox], input[type=radio] {
+	box-sizing: border-box;
+	padding: 0
+}
+input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer-spin-button {
+height:auto
+}
+input[type=search] {
+	-webkit-appearance: textfield;
+	box-sizing: content-box
+}
+input[type=search]::-webkit-search-cancel-button, input[type=search]::-webkit-search-decoration {
+-webkit-appearance:none
+}
+fieldset {
+	border: 1px solid silver;
+	margin: 0 2px;
+	padding: .35em .625em .75em
+}
+legend {
+	border: 0;
+	padding: 0
+}
+textarea {
+	overflow: auto
+}
+optgroup {
+	font-weight: 700
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0
+}
+td, th {
+	padding: 0
+}
+body {
+	background: 0
+}
+*, :after, :before {
+	box-sizing: border-box
+}
+body, dl, ol, ul {
+	margin: 0;
+	padding: 0
+}
+.grid {
+	width: 100%;
+	max-width: 77em;
+	padding: 0 1em;
+	margin: 0 auto
+}
+.grid:after, .grid:before {
+	content: "";
+	display: table
+}
+.grid:after {
+	clear: both
+}
+.row {
+	width: 100%
+}
+.row:after, .row:before {
+	content: "";
+	display: table
+}
+.row:after {
+	clear: both
+}
+[class*=column-] {
+	float: left;
+	width: 100%;
+	min-height: 1px
+}
+.column-1 {
+	width: 16.66667%
+}
+.column-1.centered {
+	float: none;
+	margin-left: auto;
+	margin-right: auto
+}
+.column-2 {
+	width: 33.33333%
+}
+.column-2.centered {
+	float: none;
+	margin-left: auto;
+	margin-right: auto
+}
+.column-3 {
+	width: 50%
+}
+.column-3.centered {
+	float: none;
+	margin-left: auto;
+	margin-right: auto
+}
+.column-4 {
+	width: 66.66667%
+}
+.column-4.centered {
+	float: none;
+	margin-left: auto;
+	margin-right: auto
+}
+.column-5 {
+	width: 83.33333%
+}
+.column-5.centered {
+	float: none;
+	margin-left: auto;
+	margin-right: auto
+}
+.column-6 {
+	width: 100%
+}
+.column-6.centered {
+	float: none;
+	margin-left: auto;
+	margin-right: auto
+}
+.box {
+	padding: 1em
+}
+.float-left {
+	float: left
+}
+.float-right {
+	float: right
+}
+.grid .first {
+	margin-left: 0!important
+}
+.grid .last {
+	margin-right: 0!important
+}
+.text-left {
+	text-align: left
+}
+.text-right {
+	text-align: right
+}
+.text-center {
+	text-align: center
+}
+
+@media only screen and (max-width:40em) {
+[class*=column-] {
+	width: 50%
+}
+}
+
+@media only screen and (max-width:30em) {
+[class*=column-] {
+	width: 100%
+}
+}
+html {
+	font-size: 16px;
+	font-size: 1rem
+}
+a, dd, li, p, span, td {
+	font-family: Arvo, serif;
+	font-size: 20px;
+	font-size: 1.25rem;
+	line-height: 1.8em;
+	color: #9d9d9d
+}
+h1, h2, h3, h4, h5, h6 {
+	margin: 1.25em 0 .2em;
+	font-family: Arvo, serif;
+	clear: none
+}
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+	font-family: inherit;
+	font-size: inherit;
+	font-weight: inherit;
+	line-height: inherit;
+	color: inherit
+}
+h1 {
+	font-size: 32px;
+	font-size: 2rem
+}
+h2 {
+	font-size: 34px;
+	font-size: 2.125rem;
+	color: #fa6300;
+	border-bottom: 3px solid #fa6300;
+	line-height: 1.5em
+}
+h2, h3 {
+	font-weight: 400
+}
+h3 {
+	font-size: 32px;
+	font-size: 2rem;
+	letter-spacing: none
+}
+h3, h4 {
+	color: #131f33
+}
+h4 {
+	font-size: 26px;
+	font-size: 1.625rem
+}
+h4, h5 {
+	font-family: Raleway, sans-serif
+}
+h5 {
+	font-size: 22px;
+	font-size: 1.375rem;
+	color: #fa6300
+}
+h6 {
+	font-size: 18px;
+	font-size: 1.125rem;
+	color: #131f33;
+	font-family: Raleway, sans-serif;
+	font-weight: 700
+}
+li {
+	list-style-type: none
+}
+p {
+	padding: 0;
+	margin: 0 0 .7em
+}
+p.large {
+	color: #9d9d9d;
+	font-size: 28px;
+	font-size: 1.75rem;
+	font-weight: 300;
+	line-height: 1.5em;
+	font-family: Raleway, sans-serif
+}
+p.large a {
+	font-size: inherit;
+	line-height: inherit;
+	font-family: inherit
+}
+a {
+	text-decoration: none;
+	margin: 0
+}
+.content ul {
+	margin: 1.25em 0 1.25em 1.5em
+}
+.content ul li {
+	list-style-type: disc
+}
+
+@media only screen and (max-width:40em) {
+html {
+	font-size: 14px;
+	font-size: .875rem
+}
+}
+a.button, button, input[type=submit] {
+	transition: all .25s ease-in-out 0s;
+	border: 2px solid #fff;
+	color: #fff;
+	padding: .7em 1em;
+	font-weight: 600;
+	font-size: 19px;
+	font-size: 1.1875rem;
+	background: none;
+	font-family: Raleway, sans-serif
+}
+a.button:after, button:after, input[type=submit]:after {
+	content: "\f061";
+	font-family: FontAwesome;
+	padding-left: .5em
+}
+a.button:focus, a.button:hover, button:focus, button:hover, input[type=submit]:focus, input[type=submit]:hover {
+	background: #fff;
+	color: #131f33
+}
+a.button:hover:active, a.button:hover:visited, button:hover:active, button:hover:visited, input[type=submit]:hover:active, input[type=submit]:hover:visited {
+	color: #131f33
+}
+a.button:active, a.button:visited, button:active, button:visited, input[type=submit]:active, input[type=submit]:visited {
+	outline: 0
+}
+.content a.button, .content button, .content input[type=submit], .content p a.button, .content p button, .content p input[type=submit] {
+	text-decoration: none;
+	color: #131f33;
+	border: 2px solid #131f33;
+	font-family: Arvo, serif;
+	display: inline-block;
+	margin-top: 2em
+}
+.content a.button:focus, .content a.button:hover, .content button:focus, .content button:hover, .content input[type=submit]:focus, .content input[type=submit]:hover, .content p a.button:focus, .content p a.button:hover, .content p button:focus, .content p button:hover, .content p input[type=submit]:focus, .content p input[type=submit]:hover {
+	background-color: #131f33;
+	color: #fff;
+	text-decoration: none
+}
+.content a.button:focus:active, .content a.button:focus:visited, .content a.button:hover:active, .content a.button:hover:visited, .content button:focus:active, .content button:focus:visited, .content button:hover:active, .content button:hover:visited, .content input[type=submit]:focus:active, .content input[type=submit]:focus:visited, .content input[type=submit]:hover:active, .content input[type=submit]:hover:visited, .content p a.button:focus:active, .content p a.button:focus:visited, .content p a.button:hover:active, .content p a.button:hover:visited, .content p button:focus:active, .content p button:focus:visited, .content p button:hover:active, .content p button:hover:visited, .content p input[type=submit]:focus:active, .content p input[type=submit]:focus:visited, .content p input[type=submit]:hover:active, .content p input[type=submit]:hover:visited {
+	color: #fff
+}
+.content a.button:active, .content a.button:visited, .content button:active, .content button:visited, .content input[type=submit]:active, .content input[type=submit]:visited, .content p a.button:active, .content p a.button:visited, .content p button:active, .content p button:visited, .content p input[type=submit]:active, .content p input[type=submit]:visited {
+	color: #131f33
+}
+button.search-button {
+	border: 0;
+	line-height: 1.4em
+}
+button.search-button:after {
+	content: "";
+	padding-left: 0
+}
+button.search-submit:focus {
+	outline: 2px solid #131f33
+}
+button.search-submit:hover:focus {
+	outline: 0
+}
+
+@media only screen and (max-width:40em) {
+.button, button {
+	padding: .3em .5em
+}
+}
+a.sprites, span.sprites {
+	display: block
+}
+img {
+	max-width: 100%
+}
+.site-title {
+	max-width: 375px
+}
+.content figure {
+	margin: 0
+}
+.site-content {
+	padding: 0 0 3em
+}
+.homepage .site-content {
+	padding: 0
+}
+#responsive-search-container, #search-container {
+	display: none;
+	background-color: #f4f4f4
+}
+#responsive-search-container form, #search-container form {
+	position: relative
+}
+#responsive-search-container form .search-field, #search-container form .search-field {
+	box-sizing: border-box;
+	padding-top: 1.3em;
+	padding-bottom: 1.3em;
+	padding-left: 3.25em;
+	width: 100%;
+	margin: 0 auto;
+	background-color: #fff
+}
+#responsive-search-container form label, #search-container form label {
+	display: block;
+	width: 100%
+}
+#responsive-search-container form button.search-submit, #search-container form button.search-submit {
+	position: absolute;
+	z-index: 2;
+	left: 0;
+	top: 0;
+	font-family: FontAwesome;
+	width: auto;
+	background: none;
+	color: #555;
+	width: 50px;
+	border: 0;
+	font-weight: 400
+}
+#responsive-search-container form button.search-submit:after, #responsive-search-container form button.search-submit:before, #search-container form button.search-submit:after, #search-container form button.search-submit:before {
+	content: none
+}
+#responsive-search-container form button.search-submit span, #search-container form button.search-submit span {
+	position: absolute;
+	left: -99999px
+}
+#search-container form .search-field {
+	margin: 1em 0
+}
+h1 {
+	color: #fff;
+	position: absolute;
+	left: -624.9375em;
+	top: -6.25em
+}
+h1 a, h1 span {
+	font-size: inherit;
+	line-height: inherit;
+	text-transform: uppercase
+}
+h1 a:hover, h1 span:hover {
+	color: #fff
+}
+h1 a:hover:focus, h1 span:hover:focus {
+	outline: 0
+}
+h1 a:focus, h1 span:focus {
+	outline: 2px solid #fff;
+	color: #fff
+}
+header {
+	background-color: #131f33;
+	padding-top: 2em
+}
+header a, header button {
+	color: #fff;
+	background: 0
+}
+header a span, header button span {
+	color: inherit
+}
+header .imark-link, header .title-link {
+	float: left;
+	display: inline-block;
+	overflow: hidden
+}
+header .imark-link:hover:focus, header .title-link:hover:focus {
+	outline: 0
+}
+header .imark-link:focus, header .title-link:focus {
+	outline: 2px solid #fff
+}
+header .imark-link .imark, header .title-link .imark {
+	float: left;
+	display: inline-block;
+	max-width: 50px
+}
+.utility-buttons {
+	float: right
+}
+.utility-buttons a {
+	font-family: Raleway, sans-serif
+}
+img.home-hero-img {
+	width: 100%
+}
+h2.hero-heading {
+	text-align: center;
+	background-color: #131f33;
+	color: #fff;
+	font-family: Raleway, sans-serif;
+	margin: 0;
+	line-height: 1em;
+	padding: 1em;
+	letter-spacing: .1em;
+	font-weight: 600;
+	font-size: 34px;
+	font-size: 2.125rem;
+	border-bottom: 0
+}
+.news-widget {
+	padding: 2em 0
+}
+.news-widget .grid>h2 {
+	color: #fa6300;
+	border-bottom: 3px solid #fa6300;
+	font-weight: 400;
+	line-height: 2.5em
+}
+.news-widget h3 {
+	text-transform: uppercase;
+	font-size: 20px;
+	font-size: 1.25rem;
+	letter-spacing: .1em
+}
+.news-widget h3 span {
+	text-transform: none;
+	color: #131f33;
+	letter-spacing: normal;
+	float: right;
+	line-height: inherit;
+	padding-top: .2em
+}
+.news-widget h3 span:after {
+	content: "\f061";
+	font-family: FontAwesome;
+	padding-left: .5em
+}
+.news-widget h3 a:hover:focus span {
+	outline: 0
+}
+.news-widget h3 a:focus span {
+	outline: 2px solid #131f33
+}
+.news-widget p.alert-link {
+	padding-bottom: 0
+}
+p.alert-link {
+	padding: 2em 0;
+	text-align: center;
+	font-family: Arvo, serif;
+	color: #9d9d9d;
+	font-size: 18px;
+	font-size: 1.125rem;
+	margin-bottom: 0
+}
+p.alert-link a {
+	font-family: inherit;
+	color: inherit;
+	font-size: inherit
+}
+p.alert-link a span {
+	font-size: 20px;
+	font-size: 1.25rem;
+	font-family: Raleway, sans-serif;
+	color: #fa6300;
+	text-transform: uppercase;
+	font-weight: 700;
+	padding-right: .3em
+}
+p.alert-link a:hover:focus {
+	outline: 0
+}
+p.alert-link a:focus {
+	outline: 2px solid #fa6300
+}
+.news-widget #ws-pa-6221 .article-entries {
+	max-width: none;
+	overflow: hidden;
+	width: 100%
+}
+.news-widget #ws-pa-6221 .article-entries .date, .news-widget #ws-pa-6221 .article-entries .title {
+	padding: 0 1em
+}
+.news-widget #ws-pa-6221 .article-entries .summary {
+	margin: 0 1em
+}
+.news-widget #ws-pa-6221 .article-entries .category {
+	display: none
+}
+.news-widget #ws-pa-6221 .article-entries .entry-image {
+	margin-bottom: 3%;
+	max-height: 160px
+}
+.news-widget #ws-pa-6221 .article-entries .title h3 {
+	color: #fa6300;
+	font-family: Raleway, sans-serif;
+	font-size: 22px;
+	font-size: 1.375rem;
+	letter-spacing: normal;
+	text-transform: none;
+	font-weight: 700
+}
+.news-widget #ws-pa-6221 .article-entries .summary p {
+	color: #9d9d9d;
+	font-size: 18px;
+	font-size: 1.125rem;
+	font-family: Arvo, serif
+}
+.news-widget #ws-pa-6221 .article-entries .date {
+	color: #9d9d9d;
+	font-size: 16px;
+	font-size: 1rem;
+	font-family: Arvo, serif
+}
+.news-widget #ws-pa-6221 .article-entries .entry>a:focus {
+	background-color: #131f33;
+	opacity: .3
+}
+.news-widget #ws-pa-6221 .article-entries .entry:after {
+	background: none
+}
+.safety-tips {
+	position: relative;
+	overflow: hidden;
+	padding: 2em 0
+}
+.safety-tips>img {
+	position: absolute;
+	width: 100%;
+	z-index: -1;
+	top: 0;
+	right: 0;
+	left: 0
+}
+.safety-tips>h2 {
+	text-align: center;
+	color: #fff;
+	z-index: 1;
+	position: relative;
+	font-family: Arvo, serif;
+	margin: 1em 0 0;
+	line-height: 1em;
+	padding: 1em;
+	border-bottom: 0;
+	font-weight: 300;
+	font-size: 50px;
+	font-size: 3.125rem
+}
+.safety-tips p {
+	text-align: center;
+	margin-bottom: 5em
+}
+.safety-tips p>a.button {
+	z-index: 1;
+	position: relative;
+	display: inline-block
+}
+footer {
+	background-color: #131f33;
+	padding: 2em 0
+}
+footer a:hover:focus {
+	outline: 0
+}
+footer a:focus {
+	outline: 2px solid #fff
+}
+footer>div {
+	text-align: center;
+	padding: 1em
+}
+footer p {
+	text-align: center;
+	color: #fff;
+	margin: 0
+}
+footer p a {
+	color: inherit
+}
+footer p.address {
+	font-size: 16px;
+	font-size: 1rem;
+	text-transform: uppercase;
+	font-family: Raleway, sans-serif;
+	font-weight: 300
+}
+footer p.address a {
+	font-family: inherit;
+	font-size: inherit;
+	font-weight: inherit
+}
+.footer-logo {
+	display: inline-block;
+	overflow: hidden
+}
+.footer-logo .site-title {
+	max-width: 275px;
+	width: 100%
+}
+.footer-logo .imark {
+	max-height: 50px
+}
+.footer-logo .imark-link, .footer-logo .title-link {
+	overflow: hidden
+}
+.footer-nav {
+	display: inline-block;
+	clear: none;
+	width: auto;
+	padding: 0;
+	font-family: Raleway, sans-serif
+}
+.footer-nav ul {
+	border-left: 1px solid hsla(0,0%,100%,.2);
+	padding-left: 2em;
+	margin-left: 2em
+}
+.footer-nav li {
+	padding: 0;
+	line-height: 1.5em;
+	text-align: left
+}
+.footer-nav a {
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 16px;
+	font-size: 1rem;
+	line-height: inherit;
+	letter-spacing: .2em;
+	padding-right: 1.5em;
+	position: relative;
+	font-family: Raleway, sans-serif
+}
+.footer-nav a:hover:after {
+	content: "\f061";
+	font-family: FontAwesome;
+	color: #fa6300;
+	position: absolute;
+	right: 0;
+	top: -5px;
+	line-height: inherit;
+	font-size: inherit
+}
+.social-media {
+	display: inline-block;
+	color: #fff;
+	margin: 0 .4em;
+	font-size: 14px;
+	font-size: .875rem
+}
+.social-media i {
+	color: #fa6300;
+	padding: .4em;
+	font-size: 20px;
+	font-size: 1.25rem
+}
+
+@media only screen and (max-width:75em) {
+.safety-tips h2 {
+	margin: 0;
+	padding: .5em;
+	font-size: 30px;
+	font-size: 1.875rem
+}
+.safety-tips p {
+	margin-bottom: 1em
+}
+}
+
+@media only screen and (max-width:55.625em) {
+.wordmark-container {
+	max-width: 58%;
+	float: left;
+	overflow: hidden
+}
+.wordmark-container .imark-link {
+	width: 15%
+}
+.wordmark-container .title-link {
+	width: 85%
+}
+.wordmark-container .imark, .wordmark-container .site-title {
+	width: 100%
+}
+}
+
+@media only screen and (max-width:55.625em) {
+.hero-heading, .home-hero-img, .search-button {
+	display: none
+}
+#responsive-search-container {
+	display: block
+}
+header {
+	padding-bottom: 2em
+}
+.news-widget #ws-pa-6221.container-col-3 .article-entries .entry {
+	width: 48.4%
+}
+.news-widget #ws-pa-6221.container-col-3 .article-entries .entry:nth-child(2n) {
+	margin-right: 0
+}
+.news-widget #ws-pa-6221.container-col-3 .article-entries .entry:nth-child(3n) {
+	margin-left: 0;
+	margin-right: 0;
+	width: 100%
+}
+}
+
+@media only screen and (max-width:40em) {
+.news-widget .grid>h2 {
+	line-height: 1.5em
+}
+.news-widget #ws-pa-6221.container-col-3 .article-entries {
+	width: 100%
+}
+.news-widget #ws-pa-6221.container-col-3 .article-entries .entry {
+	width: 100%;
+	margin-left: 0;
+	margin-right: 0
+}
+.news-widget #ws-pa-6221.container-col-3 .article-entries .entry:nth-child(2n) {
+	margin-right: inherit
+}
+.news-widget #ws-pa-6221.container-col-3 .article-entries .entry:nth-child(3n), .news-widget #ws-pa-6221.container-col-3 .article-entries .entry:nth-child(3n+1) {
+	margin-left: inherit;
+	margin-right: inherit
+}
+.news-widget #ws-pa-6221.container-col-3 .article-entries .entry-image {
+	display: none
+}
+.news-widget #ws-pa-6221.container-col-3 .article-entries .summary {
+	display: block
+}
+}
+
+@media only screen and (max-width:30em) {
+.wordmark-container {
+	max-width: 65%
+}
+.wordmark-container .imark-link {
+	width: 13%
+}
+.wordmark-container .title-link {
+	width: 87%
+}
+.safety-tips>img {
+	max-width: none;
+	left: -10%;
+	height: 100%;
+	bottom: 0;
+	width: auto
+}
+.utility-buttons a.button {
+	border: 0;
+	text-transform: uppercase;
+	font-size: 12px;
+	font-size: .75rem;
+	line-height: 3.5em
+}
+.utility-buttons a.button:after {
+	content: none
+}
+.footer-nav {
+	margin-top: 2em
+}
+.footer-nav ul {
+	margin-left: 0;
+	padding-left: 0;
+	border-left: 0
+}
+.footer-nav ul li {
+	text-align: center
+}
+}
+a.skip-nav {
+	padding: 10px 15px;
+	position: absolute;
+	top: 20px;
+	left: -9999em;
+	z-index: 5;
+	background-color: #fff;
+	color: #131f33
+}
+a.skip-nav:focus {
+	left: 20px
+}
+a.back-to-top {
+	position: fixed;
+	z-index: 3;
+	right: 20px;
+	bottom: 20px;
+	color: #131f33;
+	background-color: hsla(0,0%,86%,.6);
+	transition: .25s ease-in-out 0s;
+	padding: 1em 1.5em;
+	border-radius: 40px;
+	font-size: 18px;
+	font-size: 1.125rem
+}
+a.back-to-top:focus, a.back-to-top:hover {
+	background-color: hsla(0,0%,100%,.9)
+}
+a#menu:focus {
+	outline: 2px solid #131f33
+}
+a#menu:hover:focus {
+	outline: 0
+}
+.content a {
+	color: #fa6300;
+	text-decoration: none;
+	transition: color .25s ease-in-out 0s;
+	line-height: inherit;
+	font-size: inherit
+}
+.content a:hover {
+	color: #f07c42;
+	outline: 0;
+	text-decoration: underline
+}
+.content a:hover:focus {
+	outline: 0
+}
+.content a:hover:active, .content a:hover:visited {
+	color: #f07c42
+}
+.content a:focus {
+	outline: 2px solid #fa6300
+}
+.content a:active, .content a:visited {
+	outline: 0;
+	color: #fa6300
+}
+a.read-more {
+	color: #fa6300
+}
+a.read-more>i {
+	color: inherit;
+	padding: 0 .3em
+}
+a.arrow {
+	transition: all .25s ease-in-out 0s;
+	padding: .7em 1em
+}
+a.arrow.accent:after {
+	color: #fa6300
+}
+a.arrow:after {
+	content: "\f061";
+	font-family: FontAwesome;
+	padding-left: .5em
+}
+a.arrow:focus, a.arrow:hover {
+	color: #131f33
+}
+nav.icon-nav {
+	background-color: #131f33
+}
+nav.icon-nav ul {
+	border-top: 1px solid hsla(0,0%,100%,.2);
+	text-align: center
+}
+nav.icon-nav ul>li, nav.icon-nav ul>li.non-mobile {
+	display: inline
+}
+nav.icon-nav ul>li.mobile {
+	display: none
+}
+nav.icon-nav ul>li:last-child>a {
+	border-right: 1px solid hsla(0,0%,100%,.2)
+}
+nav.icon-nav ul>li>a {
+	display: inline-block;
+	border-left: 1px solid hsla(0,0%,100%,.2);
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: 400;
+	letter-spacing: .1em;
+	text-align: center;
+	padding: 1em;
+	min-width: 185px;
+	font-family: Raleway, sans-serif
+}
+nav.icon-nav ul>li>a.icon:before {
+	display: block;
+	width: 50px;
+	height: 50px;
+	margin: 0 auto 1em
+}
+nav.icon-nav ul>li>a.phone:before {
+	content: url(../img/phone-icon.png)
+}
+nav.icon-nav ul>li>a.walk:before {
+	content: url(../img/safe-walk-icon.png)
+}
+nav.icon-nav ul>li>a.report:before {
+	content: url(../img/report-crime-icon.png)
+}
+nav.icon-nav ul>li>a.alert:before {
+	content: url(../img/illini-alert-icon.png)
+}
+nav.icon-nav ul>li>a:hover {
+	background-color: #202e45
+}
+nav.icon-nav ul>li>a:hover:focus {
+	outline: 0
+}
+nav.icon-nav ul>li>a:focus {
+	outline: 3px solid #fff
+}
+.sm-simple {
+	background: #fff
+}
+.sm-simple a, .sm-simple a:active, .sm-simple a:focus, .sm-simple a:hover {
+	padding: 13px 20px;
+	font-weight: 400;
+	line-height: 17px;
+	text-decoration: none
+}
+.sm-simple a.disabled {
+	color: #ccc
+}
+.sm-simple a span.sub-arrow {
+	position: absolute;
+	top: 50%;
+	margin-top: -17px;
+	left: auto;
+	right: 4px;
+	width: 34px;
+	height: 34px;
+	overflow: hidden;
+	font: 700 14px/34px monospace!important;
+	text-align: center;
+	text-shadow: none;
+	background: rgba(0,0,0,.08)
+}
+.sm-simple a.highlighted span.sub-arrow:before {
+	display: block;
+	content: '-'
+}
+.sm-simple ul {
+	background: hsla(0,0%,70%,.1)
+}
+
+@media (min-width:55.625em) {
+.sm-simple ul {
+	position: absolute
+}
+.sm-simple li {
+	float: left
+}
+.sm-simple.sm-rtl li {
+	float: right
+}
+.sm-simple.sm-rtl ul li, .sm-simple.sm-vertical li, .sm-simple ul li {
+	float: none
+}
+.sm-simple a {
+	white-space: nowrap
+}
+.sm-simple.sm-vertical a, .sm-simple ul a {
+	white-space: normal
+}
+.sm-simple .sm-nowrap>li>:not(ul) a, .sm-simple .sm-nowrap>li>a {
+	white-space: nowrap
+}
+.sm-simple {
+	background: #fff
+}
+.sm-simple a.disabled {
+	background: #fff;
+	color: #ccc
+}
+.sm-simple a span.sub-arrow {
+	top: 50%;
+	margin-top: -8px;
+	right: 20px;
+	width: 8px;
+	height: 16px;
+	font: 14px/16px monospace!important;
+	background: transparent
+}
+.sm-simple a.highlighted span.sub-arrow:before {
+	display: none
+}
+.sm-simple ul {
+	background: #fff
+}
+.sm-simple ul a.has-submenu {
+	padding-right: 20px
+}
+.sm-simple ul a span.sub-arrow {
+	right: auto;
+	margin-left: -12px
+}
+.sm-simple span.scroll-down, .sm-simple span.scroll-up {
+	position: absolute;
+	display: none;
+	visibility: hidden;
+	overflow: hidden;
+	background: #fff;
+	height: 20px
+}
+.sm-simple span.scroll-down-arrow, .sm-simple span.scroll-up-arrow {
+	position: absolute;
+	top: -2px;
+	left: 50%;
+	margin-left: -8px;
+	width: 0;
+	height: 0;
+	overflow: hidden;
+	border-width: 8px;
+	border-style: dashed dashed solid;
+	border-color: transparent transparent #555
+}
+.sm-simple span.scroll-down-arrow {
+	top: 6px;
+	border-style: solid dashed dashed;
+	border-color: #555 transparent transparent
+}
+.sm-simple.sm-rtl a.has-submenu {
+	padding-right: 20px;
+	padding-left: 32px
+}
+.sm-simple.sm-rtl a span.sub-arrow {
+	right: auto;
+	left: 20px
+}
+.sm-simple.sm-rtl.sm-vertical a.has-submenu {
+	padding: 11px 20px
+}
+.sm-simple.sm-rtl.sm-vertical a span.sub-arrow {
+	right: 20px;
+	margin-right: -12px
+}
+.sm-simple.sm-rtl>li:last-child {
+	border-left: 0
+}
+.sm-simple.sm-rtl ul a.has-submenu {
+	padding: 11px 20px
+}
+.sm-simple.sm-rtl ul a span.sub-arrow {
+	right: 20px;
+	margin-right: -12px
+}
+.sm-simple.sm-vertical a span.sub-arrow {
+	right: auto;
+	margin-left: -12px
+}
+.sm-simple.sm-vertical>li:first-child {
+	border-top: 0
+}
+}
+.sm, .sm li, .sm ul {
+	display: block;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	line-height: normal;
+	direction: ltr;
+	-webkit-tap-highlight-color: transparent
+}
+.sm-rtl, .sm-rtl li, .sm-rtl ul {
+	direction: rtl;
+	text-align: right
+}
+.sm>li>h1, .sm>li>h2, .sm>li>h3, .sm>li>h4, .sm>li>h5, .sm>li>h6 {
+	margin: 0;
+	padding: 0
+}
+.sm ul {
+	display: none
+}
+.sm a, .sm li {
+	position: relative
+}
+.sm a {
+	display: block
+}
+.sm a.disabled {
+	cursor: not-allowed
+}
+.sm:after {
+	content: "\00a0";
+	display: block;
+	height: 0;
+	font: 0/0 serif;
+	clear: both;
+	visibility: hidden;
+	overflow: hidden
+}
+.sm, .sm *, .sm :after, .sm :before {
+	box-sizing: border-box
+}
+nav.global {
+	display: block;
+	width: 100%;
+	clear: both;
+	margin-top: 2em
+}
+nav.global a#menu {
+	display: none;
+	text-align: center
+}
+nav.global.responsive {
+	display: none
+}
+ul.sm.sm-simple {
+	background-color: #131f33;
+	position: relative;
+	text-align: center
+}
+ul.sm.sm-simple li {
+	display: inline-block;
+	text-transform: uppercase;
+	font-weight: 700;
+	letter-spacing: .15em;
+	font-size: 16px;
+	font-size: 1rem;
+	position: static;
+	float: none;
+	padding: 0 2em;
+	font-family: Raleway, sans-serif;
+	color: #fff
+}
+ul.sm.sm-simple li a {
+	transition: background .2s ease-in-out 0s;
+	font-weight: inherit;
+	line-height: inherit;
+	font-size: inherit;
+	font-family: inherit;
+	padding: .7em 1em;
+	color: inherit
+}
+ul.sm.sm-simple li a.highlighted {
+	background-color: #f4f4f4;
+	color: #131f33;
+	border-bottom: 0
+}
+ul.sm.sm-simple li a.highlighted:active, ul.sm.sm-simple li a.highlighted:visited {
+	color: #131f33
+}
+ul.sm.sm-simple li a:focus {
+	outline: 2px solid #fff
+}
+ul.sm.sm-simple li a:active, ul.sm.sm-simple li a:visited {
+	color: #fff
+}
+ul.sm.sm-simple li a:hover:active, ul.sm.sm-simple li a:hover:visited {
+	color: #131f33
+}
+ul.sm.sm-simple li a:hover:focus {
+	outline: 0
+}
+ul.sm.sm-simple li.current-menu-parent {
+	color: #fa6300
+}
+ul.sm.sm-simple li.current-menu-parent a {
+	color: inherit
+}
+ul.sm.sm-simple li.current-menu-parent a:active, ul.sm.sm-simple li.current-menu-parent a:visited {
+	color: #d35400
+}
+ul.sm.sm-simple ul.sub-menu {
+	background-color: #f4f4f4;
+	position: absolute;
+	z-index: 4;
+	left: 0;
+	right: 0;
+	width: 100%;
+	padding: 2em
+}
+ul.sm.sm-simple ul.sub-menu>li {
+	color: #131f33;
+	display: inline;
+	border-right: 3px solid #131f33;
+	float: left;
+	width: 57%;
+	padding-left: 20%;
+	text-align: left;
+	text-transform: none;
+	letter-spacing: normal;
+	font-weight: 400;
+	font-size: 18px;
+	font-size: 1.125rem
+}
+ul.sm.sm-simple ul.sub-menu>li.callout {
+	border-right: 0;
+	float: right;
+	width: 34%;
+	position: absolute;
+	right: 1em;
+	top: 2em;
+	padding-left: 0;
+	font-size: 30px;
+	font-size: 1.875rem
+}
+ul.sm.sm-simple ul.sub-menu>li.callout span.sub {
+	display: block;
+	padding-top: 1em
+}
+ul.sm.sm-simple ul.sub-menu>li.callout span.sub:after {
+	color: #fa6300;
+	content: "\f061";
+	font-family: FontAwesome;
+	padding-left: .5em
+}
+ul.sm.sm-simple ul.sub-menu>li a {
+	color: inherit;
+	line-height: inherit;
+	font-size: inherit;
+	padding: 0
+}
+ul.sm.sm-simple ul.sub-menu>li a:active, ul.sm.sm-simple ul.sub-menu>li a:visited {
+	color: #131f33
+}
+ul.sm.sm-simple ul.sub-menu>li a:focus {
+	outline: 2px solid #131f33
+}
+ul.sm.sm-simple ul.sub-menu>li a:hover {
+	text-decoration: underline;
+	color: #202e45
+}
+ul.sm.sm-simple ul.sub-menu>li a:hover:focus {
+	outline: 0
+}
+nav.secondary-nav {
+	background-color: #fff
+}
+nav.secondary-nav ul {
+	text-align: center
+}
+nav.secondary-nav ul li {
+	display: inline;
+	padding: 0 1em
+}
+nav.secondary-nav ul li a {
+	padding: .7em 1em;
+	color: #131f33;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+	font-weight: 700;
+	font-size: 18px;
+	font-size: 1.125rem;
+	font-family: Raleway, sans-serif
+}
+nav.secondary-nav ul li a:focus {
+	outline: 2px solid #131f33
+}
+nav.secondary-nav ul li a:hover:focus {
+	outline: 0
+}
+
+@media only screen and (max-width:55.625em) {
+nav.icon-nav {
+	background-color: #f4f4f4;
+	padding: 1em;
+	overflow: hidden
+}
+nav.icon-nav>ul {
+	border-top: 0
+}
+nav.icon-nav>ul>li.non-mobile {
+	display: none
+}
+nav.icon-nav>ul>li.mobile {
+	display: inline
+}
+nav.icon-nav>ul>li>a {
+	margin: .5%;
+	width: 49%;
+	float: left;
+	background-color: #131f33;
+	border-radius: 5px 5px 5px 5px;
+	border-left: 0
+}
+}
+
+@media only screen and (max-width:55.625em) {
+nav.global {
+	display: none
+}
+nav.global.responsive {
+	display: block;
+	margin-top: 0;
+	padding: 1em 0;
+	background-color: #f4f4f4
+}
+nav.global.responsive a#menu {
+	display: block;
+	color: #131f33;
+	font-weight: 700;
+	letter-spacing: .1em;
+	cursor: pointer
+}
+nav.global.responsive a#menu i {
+	padding-right: .7em
+}
+nav.global.responsive .menu-global-nav-container {
+	margin-top: 1em
+}
+nav.global.responsive ul.sm-simple {
+	background-color: #f4f4f4;
+	text-align: left;
+	display: none
+}
+nav.global.responsive ul.sm-simple>li {
+	width: 100%
+}
+nav.global.responsive ul.sm-simple>li>a {
+	color: #131f33;
+	letter-spacing: 0;
+	text-align: center
+}
+nav.global.responsive ul.sm-simple>li>a:hover:focus {
+	outline: 0
+}
+nav.global.responsive ul.sm-simple>li>a:focus {
+	outline: 2px solid #131f33
+}
+nav.global.responsive ul.sm-simple ul.sub-menu {
+	position: static;
+	background-color: #fff
+}
+nav.global.responsive ul.sm-simple ul.sub-menu>li {
+	border-right: 0;
+	display: block;
+	float: none;
+	padding: 0;
+	width: 100%;
+	line-height: 1.4em;
+	padding: .7em 0;
+	border-bottom: 1px solid #ccc
+}
+nav.global.responsive ul.sm-simple ul.sub-menu>li>a {
+	background-color: inherit
+}
+nav.global.responsive ul.sm-simple ul.sub-menu>li>a:after {
+	content: "\f054";
+	font-family: FontAwesome;
+	color: #fa6300;
+	float: right;
+	line-height: 1.5em
+}
+nav.global.responsive ul.sm-simple ul.sub-menu>li.callout {
+	position: static;
+	font-size: 18px;
+	font-size: 1.125rem
+}
+}
+
+@media only screen and (max-width:40em) {
+nav #menu {
+	display: block
+}
+nav ul.primary-nav {
+	display: none
+}
+}
+
+@media only screen and (max-width:30em) {
+nav.icon-nav>ul>li>a {
+	min-width: 49%;
+	font-size: 11px;
+	font-size: .6875rem;
+	font-weight: 400;
+	letter-spacing: 0;
+	padding: .5em .3em
+}
+}
+.article {
+	margin: 4em auto;
+	float: none
+}
+p.page-intro {
+	color: #9d9d9d;
+	font-size: 28px;
+	font-size: 1.75rem;
+	font-weight: 300;
+	line-height: 1.5em;
+	font-family: Raleway, sans-serif
+}
+#responsive-search-container, p.page-intro {
+	margin-top: 1em
+}
+.home #responsive-search-container {
+	margin-top: 0
+}
+.landing-hero-container {
+	position: relative;
+	overflow: hidden;
+	min-height: 600px
+}
+img.landing-hero-img {
+	width: 100%;
+	position: absolute
+}
+h2.landing-heading {
+	margin: 0;
+	line-height: 1em;
+	padding: 3.5em 0 .5em;
+	letter-spacing: .1em;
+	font-weight: 400;
+	font-size: 50px;
+	font-size: 3.125rem;
+	border-bottom: 0
+}
+h2.landing-heading, p.landing-intro {
+	position: relative;
+	z-index: 1;
+	text-align: center;
+	color: #fff
+}
+p.landing-intro {
+	font-size: 28px;
+	font-size: 1.75rem;
+	font-weight: 300;
+	line-height: 1.4em;
+	width: 35%;
+	margin: 0 auto;
+	font-family: Raleway, sans-serif
+}
+.accordion p {
+	font-size: 20px;
+	font-size: 1.25rem;
+	color: #9d9d9d;
+	font-family: Arvo, serif
+}
+.standard-page .accordion {
+	width: 65%;
+	margin: 0 auto 2em
+}
+.ui-accordion-header {
+	color: #fa6300;
+	font-weight: 600;
+	font-size: 20px;
+	font-size: 1.25rem;
+	border: 2px solid #fa6300;
+	padding: .5em .7em;
+	cursor: pointer
+}
+.ui-accordion-header:before {
+	content: "\f067";
+	font-family: FontAwesome;
+	padding-right: .7em;
+	font-size: 18px;
+	font-size: 1.125rem;
+	font-weight: 400
+}
+.ui-accordion-header.ui-accordion-header-active:before {
+	content: "\f068"
+}
+.ui-accordion-header:hover:focus {
+	outline: 0
+}
+.ui-accordion-header:focus {
+	outline: 4px solid #131f33
+}
+.gray-box {
+	background-color: #f4f4f4
+}
+.gray-box h3 {
+	color: #fa6300
+}
+.search-results .search-query {
+	color: #d35400;
+	font-size: 25px;
+	font-size: 1.5625rem
+}
+.search-results .no-results {
+	margin-top: 4em
+}
+.search-results .pagination {
+	text-align: center;
+	border-top: 2px solid #fa6300
+}
+.search-results .pagination a.page-numbers {
+	color: #fa6300
+}
+.search-results .pagination span.current {
+	color: #d35400
+}
+.search-results .pagination:after, .search-results .pagination:before {
+	content: none
+}
+.subpage #pc-2668 #edu-il-ws-2668-153-wrapper {
+	width: 100%
+}
+.subpage #pc-2668 #edu-il-ws-2668-153-wrapper .edu-il-ws-2668-153-content {
+	padding: 0;
+	margin: 0
+}
+.subpage #pc-2668 #edu-il-ws-2668-153-wrapper .edu-il-ws-2668-153-section-box {
+	float: none;
+	width: 100%;
+	margin-bottom: 1em
+}
+.subpage #pc-2668 #edu-il-ws-2668-153-wrapper .edu-il-ws-2668-153-section-box .edu-il-ws-2668-153-time {
+	color: #131f33;
+	font-size: 20px;
+	font-size: 1.25rem;
+	font-family: Raleway, sans-serif
+}
+.subpage #pc-2668 #edu-il-ws-2668-153-wrapper .edu-il-ws-2668-153-section-box .edu-il-ws-2668-153-description {
+	font-family: Arvo, serif;
+	font-size: 22px;
+	font-size: 1.375rem;
+	line-height: 1.8em;
+	color: #9d9d9d
+}
+.subpage #pc-2668 #edu-il-ws-2668-153-wrapper .edu-il-ws-2668-153-section-box h4 {
+	color: #fa6300;
+	font-family: Raleway, sans-serif;
+	font-size: 28px;
+	font-size: 1.75rem;
+	font-weight: 700
+}
+.subpage #pc-2668 #edu-il-ws-2668-153-wrapper .edu-il-ws-2668-153-section-box h4 a {
+	font-weight: inherit;
+	font-family: inherit;
+	color: inherit;
+	font-size: inherit
+}
+.subpage #pc-2668 #edu-il-ws-2668-153-wrapper .edu-il-ws-2668-153-function a {
+	color: #fa6300
+}
+
+@media only screen and (max-width:75em) {
+div.landing-hero-container {
+	min-height: 400px
+}
+h2.landing-heading {
+	padding: 2em 0 .5em
+}
+p.landing-intro {
+	width: 60%
+}
+}
+
+@media only screen and (max-width:55.625em) {
+div.landing-hero-container {
+	min-height: 400px
+}
+h2.landing-heading {
+	padding: 1.5em 0 .5em;
+	font-size: 40px;
+	font-size: 2.5rem
+}
+img.landing-hero-img {
+	max-width: none;
+	left: -20%;
+	height: 100%;
+	bottom: 0;
+	width: auto
+}
+p.landing-intro {
+	width: 70%
+}
+}
+
+@media only screen and (max-width:40em) {
+.standard-page .accordion, [class*=column-] {
+	width: 100%
+}
+div.landing-hero-container {
+	min-height: 300px
+}
+h2.landing-heading {
+	padding: 1.5em 0 .5em;
+	font-size: 40px;
+	font-size: 2.5rem
+}
+img.landing-hero-img {
+	max-width: none;
+	left: -10%;
+	height: 100%;
+	bottom: 0;
+	width: auto
+}
+p.landing-intro {
+	width: 70%
+}
+}
+
+@media only screen and (max-width:30em) {
+div.landing-hero-container {
+	min-height: 260px
+}
+img.landing-hero-img {
+	max-width: none;
+	left: -35%;
+	height: 100%;
+	bottom: 0;
+	width: auto
+}
+h2.landing-heading {
+	padding: 1em 0 .5em;
+	font-size: 36px;
+	font-size: 2.25rem
+}
+p.landing-intro {
+	width: 100%;
+	padding: 0 1em;
+	font-size: 22px;
+	font-size: 1.375rem
+}
+}
+
+@media print {
+body {
+	background: #fff;
+	font-size: 12pt
+}
+a:link, a:visited {
+	color: #520!important;
+	background: transparent;
+	font-weight: 700;
+	text-decoration: underline!important
+}
+.header-bg {
+	overflow: hidden
+}
+.header-bg div.imark {
+	position: relative;
+	float: right
+}
+.header-bg div.imark a {
+	padding-bottom: 3em
+}
+#main-content {
+	width: 100%;
+	padding: 0;
+	float: none!important;
+	color: #111!important;
+	background: transparent none
+}
+#main-content .content {
+	padding-top: 1em;
+	border-top: 1px solid #999
+}
+#main-content .content img {
+	max-width: 100%
+}
+#main-content .content a:link:after, #main-content .content a:visited:after {
+	content: " (" attr(href) ") ";
+	font-size: 90%
+}
+}
+</style>
+<script type="text/javascript">
+            var skinColor1 = '656464';
+            var skinColor2 = '879596';
+            var appUiColor = '#1B1D42';
+            var contentLinkColor = '#879596';
+            if (typeof parent.applyColors == 'function') { 
+                parent.applyColors(skinColor1, skinColor2);
+            }
+            
+            var navigationLinks = new Array();
+            </script><style type="text/css">
+            
+            
+            #menu-items li a,
+            .toggle-view button.selected,
+            .toggle-view button.selected:hover,
+            #timeframe-chooser:hover,
+            #ws-calendar-container.summary-view h2,
+            #ws-calendar-container.list-view h2,
+            #ws-calendar-container.grid-view h2,
+            #btn-search.selected,
+            #btn-search.selected:hover,
+            #btn-show-recurring.toggle-on,
+            #btn-show-recurring.toggle-on:hover,
+            #btn-show-recurring.toggle-off, 
+            input.small-btn,
+            #ws-calendar-container.detail-view .back-btn,
+            #ws-calendar-container.grid-view .event-meta .date,
+            #ws-sidebar .more-button,
+            #ws-sidebar .sidebar-panel,
+            #ws-sidebar .modal-menu h4,
+            .standard-btn,
+            .standard-btn.light
+            {
+            /* use RGB value */
+            background-color: rgb(27, 29, 66);
+            }
+            
+            #ws-calendar-container.list-view .location:after,
+            #ws-calendar-container.summary-view .location:after {
+            /* use RGB value */
+            color: rgb(27, 29, 66);
+            }
+            
+            
+            #time-options li a {
+                /* calculate 50% tint? */
+                background-color: rgb(141, 142, 161);
+            }
+            
+            #time-options li a:hover,
+            #ws-sidebar .sidebar-panel {
+                /* calculate 70% tint? */
+                background-color: rgb(187, 187, 198);
+            }
+            
+                        
+            #uofi #ws-pa #edu-il .blog-archive a:active .circle, #uofi #ws-pa #edu-il .blog-archive a:focus:hover .circle {
+                background-color: #879596;
+            }    
+            #uofi #ws-pa #edu-il #blog-wrapper
+            {
+                background-color: transparent
+            }
+            #ws-calendar-container #ws-calendar-content .entry.recurring-event .title a:before {
+            background-color: #879596 !important;
+            }
+            #uofi #ws-pa #edu-il a
+            {
+                color: #879596;
+                
+                text-decoration: none;
+                border:0;
+                margin:0;
+                padding:0;
+            }
+            #uofi #ws-pa #edu-il a:hover
+            {
+            color: #879596;
+                
+                text-decoration: underline;
+                border:0;
+                margin:0;
+                padding:0;
+            }
+            #uofi #ws-pa #edu-il p 
+            {
+                color: #666666;
+                font-size: 14px;
+                font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+                font-weight: 400;
+                line-height: 1.6;
+                
+                margin-bottom: 22.400000000000002px;
+                border:0;
+                padding:0;
+            }
+            #uofi #ws-pa #edu-il span,
+            #uofi #ws-pa #edu-il dd,
+            #uofi #ws-pa #edu-il td
+            {
+                color: #666666;
+                font-size: 14px;
+                font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+                font-weight: 400;
+                line-height: 1.6;
+            }
+            #uofi #ws-pa #edu-il li
+            {
+                color: #666666;
+                font-size: 14px;
+                font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+                font-weight: 400;
+                line-height: 1.6;
+                border:0;
+                padding:0;
+            }
+            #uofi #ws-pa #edu-il ol, #uofi #ws-pa #edu-il ul 
+            {
+                margin-bottom: 22.400000000000002px;
+                border:0;
+                padding:0;
+            }
+            #uofi #ws-pa #edu-il h1
+            {
+                color: #333333;
+                font-size: 32px;
+                font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+                font-weight: 400;
+                line-height: 1.2;
+                margin-bottom: 19.2px;
+                border:0;
+                padding:0;
+            }
+            #uofi #ws-pa #edu-il h2
+            {
+                color: #333333;
+                font-size: 28px;
+                font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+                font-weight: 400;
+                line-height: 1.2;
+                margin-bottom: 16.8px;
+                border:0;
+                padding:0;
+            }
+            #uofi #ws-pa #edu-il h3
+            {
+                color: #333333;
+                font-size: 24px;
+                font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+                font-weight: 400;
+                line-height: 1.2;
+                margin-bottom: 14.399999999999999px;
+                border:0;
+                padding:0;
+            }
+            #uofi #ws-pa #edu-il h4
+            {
+                color: #333333;
+                font-size: 18px;
+                font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+                font-weight: 400;
+                line-height: 1.2;
+                margin-bottom: 10.799999999999999px;
+                border:0;
+                padding:0;
+            }
+            #uofi #ws-pa #edu-il h5
+            {
+                color: #333333;
+                font-size: 16px;
+                font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+                font-weight: 400;
+                line-height: 1.2;
+                margin-bottom: 9.6px;
+                border:0;
+                padding:0;
+            }
+            
+            
+            #uofi #ws-pa #edu-il #blog-article-view .blog-post
+            {
+                background-color: transparent;
+                
+                        padding: 0;
+                    
+            }
+            #uofi #ws-pa #edu-il .blog-post-entry{
+                padding: 0px;
+                margin: 20px;
+                background-color: transparent;
+            }
+            #uofi #ws-pa #edu-il .scroll-container {
+                background-color: transparent;
+            }
+            
+            
+    
+    
+            #uofi #ws-pa #edu-il #blog-home-view .blog-post-entry,
+            #uofi #ws-pa #edu-il #blog-results-view .blog-post-entry
+            {
+                background-color: transparent;
+                border:none;
+            }
+            
+            #uofi #ws-pa #edu-il #blog-home-view .blog-post-entry-1col,
+            #uofi #ws-pa #edu-il #blog-results-view .blog-post-entry-1col 
+            {
+                margin-top: 10px;
+                margin-bottom: 10px;
+                margin-left: 0;
+                margin-right: 0;
+                                    
+                        padding: 0px;
+                    
+            }
+            #uofi #ws-pa #edu-il #blog-home-view .blog-post-entry-2col, #blog-home-view .blog-post-entry-3col
+            {        
+                
+                        margin: 20px;                    
+                    
+                padding: 0px;
+            }
+            #uofi #ws-pa #edu-il .blog-post-category a, 
+            #uofi #ws-pa #edu-il .blog-post-category a:hover,
+            #uofi #ws-pa #edu-il .blog-post-tag a,
+            #uofi #ws-pa #edu-il .blog-post-tag a:hover
+            {
+                text-decoration:none;
+            }
+            
+            #uofi #ws-pa #edu-il .gadget p, #uofi #ws-pa #edu-il .gadget li {
+                font-size: 80%;
+            }
+                
+             
+            #uofi #ws-pa #edu-il .blog-profile .gadget-header 
+            {
+                display: ;
+            }
+            #uofi #ws-pa #edu-il .gadget 
+            {
+                margin:0 0 50px 0; 
+            }
+            #uofi #ws-pa #edu-il .blog-gadget
+            {
+                padding: 0px;
+                background-color: transparent;
+            }
+            #uofi #ws-pa #edu-il h3.gadget-header
+            {
+                
+                color: #666666;
+                font-size: 14px;
+                font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+                font-weight: 700;
+                background-color: transparent;
+                
+                text-transform: capitalize;
+            }
+            #uofi #ws-pa #edu-il #blog-navigation .blog-pagination-button 
+            {
+                text-transform: capitalize;
+            }
+            
+                #uofi #ws-pa #edu-il h3.gadget-header i 
+                {
+                    display:none;
+                }
+            
+                    
+                    #uofi #ws-pa #edu-il .blog-recent-posts li
+                    {
+                        margin-bottom:20px;
+                    }
+                
+                
+                
+            #uofi #ws-pa #edu-il .column-layout-2 #blog-home-view,
+            #uofi #ws-pa #edu-il .column-layout-3 #blog-home-view
+            {
+                padding: 0 10px;
+            }
+ 
+                    
+            
+                    #uofi #ws-pa #edu-il .gadget-header{
+                    margin-bottom: 10px;
+                    }
+                
+            
+            
+            #uofi #ws-pa #edu-il .blog-categories a, 
+            #uofi #ws-pa #edu-il .blog-post-category a{
+                border-width: 1px;
+                border-style: solid;
+                border-color:#656464;
+                color: #656464;
+                background-color: #FFFFFF;
+                
+                        text-transform:uppercase;
+                    
+            }
+            #uofi #ws-pa #edu-il .blog-tags a{
+                border-width: 1px;
+                border-style: solid;
+                background-color: #656464;
+                color: #FFFFFF;
+                border-color: #FFFFFF;
+                
+                        text-transform:uppercase;
+                    
+            }
+            #uofi #ws-pa #edu-il .blog-categories a:hover, 
+            #uofi #ws-pa #edu-il .blog-post-category a:hover, 
+            #uofi #ws-pa #edu-il .blog-categories a:focus:hover, 
+            #uofi #ws-pa #edu-il .blog-categories a:active:hover,
+            #uofi #ws-pa #edu-il #ws-content .blog-post-category a:active:hover, 
+            #uofi #ws-pa #edu-il #ws-content .blog-post-category a:focus:hover
+            {
+                border-color: #879596 !important;
+                background-color: #879596 !important;
+                outline:none !important;
+                color:#ffffff !important;
+            }
+            #uofi #ws-pa #edu-il .blog-tags a:hover, #uofi #ws-pa #edu-il .blog-tags a:focus:hover,
+            #uofi #ws-pa #edu-il .blog-tags a:active:hover
+            {
+                color:#FFFFFF !important;
+                background-color: #879596 !important;
+                border-color: #879596 !important;
+                outline:none !important;
+                color:#ffffff !important;
+                }
+            .circle, .year span.circle {
+                background-color: #879596;
+            }
+    
+            
+            #uofi #ws-pa #edu-il #blog-article-view .blog-post-title{
+                color: #333333;
+                font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+                font-size: 24px;
+                font-weight: 400;
+            }
+        
+            
+            #uofi #ws-pa #edu-il .blog-features{
+                background-color: #848383;
+            }
+            #uofi #ws-pa #edu-il .blog-closing-section a
+            {
+                color: #FFFFFF;          
+                 
+                text-decoration: none; 
+            }
+            #uofi #ws-pa #edu-il .blog-closing-section a:hover, #uofi #ws-pa #edu-il .blog-closing-section a:focus:hover,
+            #uofi #ws-pa #edu-il .blog-closing-section a:active:hover
+            
+            {
+                color: #E0E0E0 !important; 
+                
+                text-decoration: none !important; 
+                background-color: transparent !important;
+                outline:none !important;
+            }
+            
+            
+            #uofi #ws-pa #edu-il #blog-level-menu li.nav-menu:focus, 
+            #uofi #ws-pa #edu-il #blog-level-menu li.nav-menu.active, 
+            #uofi #ws-pa #edu-il #blog-level-menu li.nav-menu.active:hover, 
+            #uofi #ws-pa #edu-il #blog-level-menu li.nav-menu.active:focus, 
+            #uofi #ws-pa #edu-il #blog-level-menu li.nav-menu.active:focus:hover,
+            #uofi #ws-pa #edu-il #blog-level-menu li ul,
+            #uofi #ws-pa #edu-il .mobile-nav ul {
+                background-color: #1B1D42;
+            }
+            #uofi #ws-pa #edu-il #blog-level-menu li.nav-menu.active > .arrow-up,
+            #uofi #ws-pa #edu-il .mobile-nav .arrow-up {
+                border-bottom: 10px solid #1B1D42;
+            }
+            #uofi #ws-pa #edu-il #search-bar.close-search input[type="text"], 
+            #uofi #ws-pa #edu-il #search-bar.close-search input[type="text"]:focus, 
+            #uofi #ws-pa #edu-il #search-bar.open-search input[type="text"], 
+            #uofi #ws-pa #edu-il #search-bar.open-search input[type="text"]:focus {
+                border: 1px solid #1B1D42;
+            }
+            #uofi #ws-pa #edu-il #search-bar.open-search button:before {
+                color: #1B1D42;
+            }
+            
+            #jrw{
+            
+            }
+            
+            #uofi #ws-pa #edu-il .blog-post-footer, 
+            #uofi #ws-pa #edu-il .paging-menu-top a, 
+            #uofi #ws-pa #edu-il .search-results-menu
+            {
+                background-color: #1B1D42;
+            }
+            #uofi #ws-pa #edu-il .paging-menu-bottom, #uofi #ws-pa #edu-il .paging-menu-top
+            {
+                border-color: #1B1D42;
+            }
+            #uofi #ws-pa #edu-il .blog-post-comment-text i,
+            #uofi #ws-pa #edu-il .paging-menu-top a:hover, 
+            #uofi #ws-pa #edu-il .paging-menu-top a:focus:hover, 
+            #uofi #ws-pa #edu-il .paging-menu-top a:active:hover
+            
+            {
+                color: #1B1D42 !important;
+            }      
+            
+            #uofi #ws-pa #edu-il .blog-post-footer a, 
+            #uofi #ws-pa #edu-il .blog-post-footer li, 
+            #uofi #ws-pa #edu-il .paging-menu-top a 
+            {
+                color: ######;
+            }
+            #uofi #ws-pa #edu-il .blog-post-footer a:hover
+            {
+                color: ######;
+            }
+            #uofi #ws-pa #edu-il .blog-post-meta, 
+            #uofi #ws-pa #edu-il .blog-post-footer, 
+            #uofi #ws-pa #edu-il .blog-closing-section, 
+            #uofi #ws-pa #edu-il .blog-post-comments-section .reply-post
+            {
+                
+                text-transform: uppercase;
+            }        
+            #uofi #ws-pa #edu-il .paging-menu-top li 
+            {
+                
+                        width: 25px;
+                        height: 25px;
+                        line-height: 25px;
+                    
+            } 
+                
+            #uofi #ws-pa #edu-il .paging-menu-top i 
+            {
+            
+                    width: 25px;
+                
+            } 
+            #uofi #ws-pa #edu-il .paging-menu-top {
+                
+                        margin-bottom: 10px;
+                        
+            }
+            #uofi #ws-pa #edu-il .paging-menu-top li span{
+                
+                        height: 25px;
+                        line-height: 25px;
+                    
+            }
+            #uofi #ws-pa #edu-il .paging-menu-top .paging-controls{
+                
+            }
+            #uofi #ws-pa #edu-il .paging-menu-top i{
+                
+                        line-height: 25px;
+                    
+            }
+            #uofi #ws-pa #edu-il .paging-menu-top .page{
+                
+                        height: 25px;
+                    
+            }
+            #uofi #ws-pa #edu-il .paging-menu-top .back, 
+            #uofi #ws-pa #edu-il .paging-menu-top .next{
+                
+                        border-radius: 15px;
+                        margin-left:4px;
+                    
+            }
+            #uofi #ws-pa #edu-il .paging-menu-top .back, 
+            #uofi #ws-pa #edu-il .paging-menu-top .back a{
+                
+            }
+            #uofi #ws-pa #edu-il .paging-menu-top a{
+                
+                        height: 25px;
+                        line-height: 25px;
+                        border-radius: 15px;
+                    
+            }
+            
+            #uofi #ws-pa #edu-il .paging-menu-top {
+                
+                        margin-top:  auto;
+                        margin-left: auto;
+                        padding-left: 0;
+                    
+            }
+             
+                
+            
+            #uofi #ws-pa #edu-il #blog-title a,
+            #uofi #ws-pa #edu-il #blog-title a:hover
+            {
+                color: #444444;
+                text-decoration:none;
+            }
+            #uofi #ws-pa #edu-il div.title
+            {
+                font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+                font-weight: 400;
+                color: #444444;
+                font-size:18px;
+                
+            }
+            #uofi #ws-pa #edu-il .blog-description
+            {
+                font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+                font-weight: 400;
+                color: #888888;
+                font-size:16px;
+                
+            }
+            #uofi #ws-pa #edu-il #blog-wrapper
+            {
+                padding-left: 0px;
+                padding-right: 0px;
+                padding-top: 0px;
+                padding-bottom: 0px;            
+            }
+            #ws-pa #edu-il #blog-header
+            {
+                background-color: transparent;
+                
+                padding: 10px 0;
+                
+            }
+            #uofi #ws-pa #edu-il #blog-level-menu {
+                position:relative; top:auto; bottom:auto; left:auto; right:auto;
+            }
+            
+            #uofi #ws-pa #edu-il #blog-level-menu a, #uofi #ws-pa #edu-il #search-bar button, #uofi #ws-pa #edu-il #blog-level-menu li
+            {
+                color: #666666;
+                
+                text-transform: uppercase;
+                
+                text-decoration:none;
+            }
+            #uofi #ws-pa #edu-il #blog-level-menu a:hover, 
+            #uofi #ws-pa #edu-il #blog-level-menu a:focus:hover, 
+            #uofi #ws-pa #edu-il #blog-level-menu a:active:hover,
+            #uofi #ws-pa #edu-il #search-bar button:hover, 
+            #uofi #ws-pa #edu-il #search-bar button:focus:hover, 
+            #uofi #ws-pa #edu-il #search-bar button:active:hover
+            {
+                color: #E0E0E0 !important;  
+                
+                text-decoration:none !important;
+                background: transparent !important;
+                outline:none !important;
+            }        
+            
+            #uofi #ws-pa #edu-il .blog-post-comments-section
+            {
+                background-color: transparent;
+                padding: 0px;
+            }    
+                
+                    .blog-post-comment-wrapper
+                    {
+                        padding:10px 0 0;
+                        border-color: #666666;
+                        border-width: 1px 0 0;
+                        border-style: solid;
+                    }
+                
+            
+            
+            
+            body.design-1-scroll #uofi #ws-pa #edu-il .blog-post-entry:hover .scroll-container + .share-bar, 
+            body.design-1-scroll #uofi #ws-pa #edu-il .share-bar:hover 
+            {
+                bottom: 0px;
+                left: 0px;
+                right: 0px;
+                background-color:  #879596;
+            }
+    
+            html.touch #uofi #ws-pa #edu-il .blog-post-entry:hover .scroll-container + .share-bar, 
+            html.touch #uofi #ws-pa #edu-il .share-bar 
+            {
+                background-color:  #879596 !important;
+            }
+            
+            #uofi #ws-pa #edu-il #blog-home-view .blog-post-title,
+            #uofi #ws-pa #edu-il #blog-results-view .blog-post-title
+            {
+                font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+                font-weight: 400;
+                font-size:19px;
+            }
+            #uofi #ws-pa #edu-il #blog-home-view .blog-post-title a,
+            #uofi #ws-pa #edu-il #blog-results-view .blog-post-title a
+            {
+                color: #333333;
+                
+                        text-decoration: none;
+                    
+            }
+            #uofi #ws-pa #edu-il #blog-home-view .blog-post-title a:hover,
+            #uofi #ws-pa #edu-il #blog-results-view .blog-post-title a:hover
+            {
+                color: #EF7F2C;
+                
+                        text-decoration: none;
+                    
+            }
+            #uofi #ws-pa #edu-il .comments-closed 
+            {
+                background-color: #1B1D42;
+            }
+        </style>
+</head>
+
+<body class="webtool">
+<img src="http://police.illinois.edu/dpsapp/wp-content/uploads/2018/07/150107-badge-thumb2.jpg" style="display:none;">
+<a class="skip-nav">Skip to content</a>
+<div class="body-wrap">
+    <header role="banner">
+        <div class="grid">
+            <div class="wordmark-container">
+                <h1>Police Department - University of Illinois at Urbana - Champaign</h1>
+                <a href="http://police.illinois.edu" rel="home" class="title-link"> <img class="site-title" src="https://skins.webservices.illinois.edu/files/16223/uipd-wordmark.png" alt="University of Illinois Police Department" /> </a> </div>
+            <div class="utility-buttons"> <a href="http://police.illinois.edu/contact-us/" class="button ">Contact</a> </div>
+        </div>
+        <nav class="global" role="navigation">
+            <div class="menu-global-nav-container">
+                <ul class="sm sm-simple" id="menu-main-menu" data-smartmenus-id="1454528672276386">
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children" id="menu-item-508"><a href="http://police.illinois.edu/services/campus-safety-tips/" class="has-submenu" id="sm-1454528672276386-1" aria-haspopup="true" aria-controls="sm-1454528672276386-2" aria-expanded="false">Services<span class="sub"></span></a>
+                        <ul class="sub-menu" id="sm-15138007701468164-2" role="group" aria-hidden="true" aria-labelledby="sm-15138007701468164-1" aria-expanded="false" style="display: none; top: auto; left: 0px;">
+	<li id="menu-item-360" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://police.illinois.edu/services/safewalks-saferides/">SafeWalks, SafeRides &amp; Student Patrol<span class="sub"></span></a></li>
+	<li id="menu-item-361" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://police.illinois.edu/services/sexual-violence-resources/">Sexual Violence Resources<span class="sub"></span></a></li>
+        <li id="menu-item-2405" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://police.illinois.edu/services/orders-of-protection/">Orders of Protection<span class="sub"></span></a></li>
+	<li id="menu-item-1923" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://police.illinois.edu/services/mental-health-crisis-intervention/">Mental health crisis intervention<span class="sub"></span></a></li>
+	<li id="menu-item-346" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://police.illinois.edu/services/safety-classes-and-programs/">Safety Classes &amp; Programs<span class="sub"></span></a></li>
+	<li id="menu-item-364" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://police.illinois.edu/services/talk-to-a-safety-expert/">Talk to a Safety Expert<span class="sub"></span></a></li>
+	<li id="menu-item-362" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://police.illinois.edu/services/campus-safety-tips/">Campus Safety Tips<span class="sub"></span></a></li>
+	<li id="menu-item-365" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://police.illinois.edu/services/stay-informed/">Stay Informed<span class="sub"></span></a></li>
+	<li id="menu-item-344" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://police.illinois.edu/services/register-your-property/">Register Your Property<span class="sub"></span></a></li>
+	<li id="menu-item-345" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://police.illinois.edu/services/fingerprint-services/">Fingerprint Services<span class="sub"></span></a></li>
+	<li id="menu-item-748" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://police.illinois.edu/services/protection-of-minors/">Protection of Minors<span class="sub"></span></a></li>
+	<li id="menu-item-1804" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://forms.illinois.edu/sec/4749596">Request police records<span class="sub"></span></a></li>
+	<li id="menu-item-440" class="callout menu-item menu-item-type-custom menu-item-object-custom"><a href="/services/campus-safety-tips">How do you stay safe on campus?<span class="sub">See safety tips</span></a></li>
+</ul>
+                    </li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children" id="menu-item-342"><a href="http://police.illinois.edu/emergency-preparedness/" class="has-submenu" id="sm-1454528672276386-3" aria-haspopup="true" aria-controls="sm-1454528672276386-4" aria-expanded="false">Emergency Preparedness<span class="sub"></span></a>
+                        <ul class="sub-menu" id="sm-15138007701468164-4" role="group" aria-hidden="true" aria-labelledby="sm-15138007701468164-3" aria-expanded="false" style="display: none; top: auto; left: 0px;">
+	<li id="menu-item-347" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://police.illinois.edu/emergency-preparedness/campus-emergency-operations-plan/">Campus Emergency Operations Plan<span class="sub"></span></a></li>
+	<li id="menu-item-348" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://police.illinois.edu/emergency-preparedness/campus-violence-prevention-plan/">Campus Violence Prevention Plan<span class="sub"></span></a></li>
+	<li id="menu-item-366" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://police.illinois.edu/emergency-preparedness/building-emergency-action-plans/">Building Emergency Action Plans<span class="sub"></span></a></li>
+	<li id="menu-item-349" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://police.illinois.edu/emergency-preparedness/run-hide-fight/">Run &gt; Hide &gt; Fight<span class="sub"></span></a></li>
+	<li id="menu-item-350" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://police.illinois.edu/emergency-preparedness/active-shooter-response/">Active Shooter Response<span class="sub"></span></a></li>
+	<li id="menu-item-1659" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://police.illinois.edu/emergency-preparedness/continuity-planning/">Continuity Planning<span class="sub"></span></a></li>
+	<li id="menu-item-448" class="callout menu-item menu-item-type-custom menu-item-object-custom"><a href="/services/stay-informed/illini-alerts/">Get text messages when emergencies happen<span class="sub">Sign up for Illini-Alerts</span></a></li>
+</ul>
+                    </li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children" id="menu-item-343"><a href="http://police.illinois.edu/crime-reporting/" class="has-submenu" id="sm-1454528672276386-5" aria-haspopup="true" aria-controls="sm-1454528672276386-6" aria-expanded="false">Crime Reporting<span class="sub"></span></a>
+                        <ul class="sub-menu" id="sm-15138007701468164-6" role="group" aria-hidden="true" aria-labelledby="sm-15138007701468164-5" aria-expanded="false" style="display: none; top: auto; left: 0px;">
+	<li id="menu-item-351" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://police.illinois.edu/crime-reporting/clery-compliance/">Clery Act Compliance<span class="sub"></span></a></li>
+	<li id="menu-item-419" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://police.illinois.edu/crime-reporting/clery-compliance/annual-security-and-fire-reports/">Annual Security &amp; Fire Safety Report<span class="sub"></span></a></li>
+	<li id="menu-item-784" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://police.illinois.edu/crime-reporting/police-blotter/">Police Blotter<span class="sub"></span></a></li>
+	<li id="menu-item-356" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://police.illinois.edu/crime-reporting/sex-offenders/">Sex Offenders<span class="sub"></span></a></li>
+	<li id="menu-item-354" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://police.illinois.edu/crime-reporting/daily-crime-log/">Daily Crime Log<span class="sub"></span></a></li>
+	<li id="menu-item-357" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://police.illinois.edu/crime-reporting/report-a-crime-or-submit-a-tip/">Report a Crime or Submit a Tip<span class="sub"></span></a></li>
+	<li id="menu-item-449" class="callout menu-item menu-item-type-custom menu-item-object-custom"><a href="/crime-reporting/report-a-crime-or-submit-a-tip">Are you the victim of a crime?<span class="sub">Report it now</span></a></li>
+	<li id="menu-item-1298" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://police.illinois.edu/crime-reporting/safety-at-illinois/">How Illinois Compares<span class="sub"></span></a></li>
+	<li id="menu-item-1406" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://police.illinois.edu/crime-reporting/year-in-review/">Year In Review<span class="sub"></span></a></li>
+</ul>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <nav class="global responsive" role="navigation">
+        <div class="grid"> <a aria-label="open the responsive menu" href="#responsive-menu" id="menu"><i class="fa fa-bars"></i>MENU</a>
+            <div class="menu-global-nav-container">
+                <ul id="responsive-main-menu" class="sm sm-simple" data-smartmenus-id="1513801180253419" style="display: block;"><li id="menu-item-508" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-508"><a href="http://police.illinois.edu/services/campus-safety-tips/" class="has-submenu" id="sm-1513801180253419-1" aria-haspopup="true" aria-controls="sm-1513801180253419-2" aria-expanded="false">Services</a>
+<ul class="sub-menu" id="sm-1513801180253419-2" role="group" aria-hidden="true" aria-labelledby="sm-1513801180253419-1" aria-expanded="false">
+	<li id="menu-item-360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-360"><a href="http://police.illinois.edu/services/safewalks-saferides/">SafeWalks, SafeRides &amp; Student Patrol</a></li>
+	<li id="menu-item-361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-361"><a href="http://police.illinois.edu/services/sexual-violence-resources/">Sexual Violence Resources</a></li>
+        <li id="menu-item-2405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-361"><a href="http://police.illinois.edu/services/orders-of-protection/">Orders of Protection</a></li>
+	<li id="menu-item-1923" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1923"><a href="http://police.illinois.edu/services/mental-health-crisis-intervention/">Mental health crisis intervention</a></li>
+	<li id="menu-item-346" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-20 current_page_item menu-item-346"><a href="http://police.illinois.edu/services/safety-classes-and-programs/">Safety Classes &amp; Programs</a></li>
+	<li id="menu-item-364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-364"><a href="http://police.illinois.edu/services/talk-to-a-safety-expert/">Talk to a Safety Expert</a></li>
+	<li id="menu-item-362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-362"><a href="http://police.illinois.edu/services/campus-safety-tips/">Campus Safety Tips</a></li>
+	<li id="menu-item-365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-365"><a href="http://police.illinois.edu/services/stay-informed/">Stay Informed</a></li>
+	<li id="menu-item-344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344"><a href="http://police.illinois.edu/services/register-your-property/">Register Your Property</a></li>
+	<li id="menu-item-345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-345"><a href="http://police.illinois.edu/services/fingerprint-services/">Fingerprint Services</a></li>
+	<li id="menu-item-748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-748"><a href="http://police.illinois.edu/services/protection-of-minors/">Protection of Minors</a></li>
+	<li id="menu-item-1804" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1804"><a href="https://forms.illinois.edu/sec/4749596">Request police records</a></li>
+	<li id="menu-item-440" class="callout menu-item menu-item-type-custom menu-item-object-custom menu-item-440"><a href="/services/campus-safety-tips">How do you stay safe on campus?</a></li>
+</ul>
+</li>
+<li id="menu-item-342" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-342"><a href="http://police.illinois.edu/emergency-preparedness/" class="has-submenu" id="sm-1513801180253419-3" aria-haspopup="true" aria-controls="sm-1513801180253419-4" aria-expanded="false">Emergency Preparedness</a>
+<ul class="sub-menu" id="sm-1513801180253419-4" role="group" aria-hidden="true" aria-labelledby="sm-1513801180253419-3" aria-expanded="false">
+	<li id="menu-item-347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-347"><a href="http://police.illinois.edu/emergency-preparedness/campus-emergency-operations-plan/">Campus Emergency Operations Plan</a></li>
+	<li id="menu-item-348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-348"><a href="http://police.illinois.edu/emergency-preparedness/campus-violence-prevention-plan/">Campus Violence Prevention Plan</a></li>
+	<li id="menu-item-366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-366"><a href="http://police.illinois.edu/emergency-preparedness/building-emergency-action-plans/">Building Emergency Action Plans</a></li>
+	<li id="menu-item-349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-349"><a href="http://police.illinois.edu/emergency-preparedness/run-hide-fight/">Run &gt; Hide &gt; Fight</a></li>
+	<li id="menu-item-350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-350"><a href="http://police.illinois.edu/emergency-preparedness/active-shooter-response/">Active Shooter Response</a></li>
+	<li id="menu-item-1659" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1659"><a href="http://police.illinois.edu/emergency-preparedness/continuity-planning/">Continuity Planning</a></li>
+	<li id="menu-item-448" class="callout menu-item menu-item-type-custom menu-item-object-custom menu-item-448"><a href="/services/stay-informed/illini-alerts/">Get text messages when emergencies happen</a></li>
+</ul>
+</li>
+<li id="menu-item-343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-343"><a href="http://police.illinois.edu/crime-reporting/" class="has-submenu" id="sm-1513801180253419-5" aria-haspopup="true" aria-controls="sm-1513801180253419-6" aria-expanded="false">Crime Reporting</a>
+<ul class="sub-menu" id="sm-1513801180253419-6" role="group" aria-hidden="true" aria-labelledby="sm-1513801180253419-5" aria-expanded="false">
+	<li id="menu-item-351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-351"><a href="http://police.illinois.edu/crime-reporting/clery-compliance/">Clery Act Compliance</a></li>
+	<li id="menu-item-419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-419"><a href="http://police.illinois.edu/crime-reporting/clery-compliance/annual-security-and-fire-reports/">Annual Security &amp; Fire Safety Report</a></li>
+	<li id="menu-item-784" class=class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://police.illinois.edu/crime-reporting/police-blotter/">Police Blotter</a></li>
+	<li id="menu-item-356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-356"><a href="http://police.illinois.edu/crime-reporting/sex-offenders/">Sex Offenders</a></li>
+	<li id="menu-item-354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-354"><a href="http://police.illinois.edu/crime-reporting/daily-crime-log/">Daily Crime Log</a></li>
+	<li id="menu-item-357" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-357"><a href="http://police.illinois.edu/crime-reporting/report-a-crime-or-submit-a-tip/">Report a Crime or Submit a Tip</a></li>
+	<li id="menu-item-1298" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1298"><a href="http://police.illinois.edu/crime-reporting/safety-at-illinois/">How Illinois Compares</a></li>
+	<li id="menu-item-1406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1406"><a href="http://police.illinois.edu/crime-reporting/year-in-review/">Year In Review</a></li>
+        <li id="menu-item-449" class="callout menu-item menu-item-type-custom menu-item-object-custom menu-item-449"><a href="/crime-reporting/report-a-crime-or-submit-a-tip">Are you the victim of a crime?</a></li>
+</ul>
+</li>
+</ul>
+            </div>
+        </div>
+    </nav>
+    <div class="main-content subpage webtool-page" id="main-content">
+        <div class="" id="primary">
+            <div role="main" class="site-content" id="content">
+                <div class="grid">
+                    <div class="row"> <a name="app"></a>
+                        <div class="column-5 article">
+                            <article class="content"> <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700" rel="stylesheet" type="text/css"><link href="https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet"><link rel="stylesheet" href="https://blogs.illinois.edu/webservices/styles/app/blog/styles-base-layout.css" type="text/css" media="screen"><link rel="stylesheet" href="https://blogs.illinois.edu/webservices/styles/app/blog/styles-content.css" type="text/css" media="screen"><link rel="stylesheet" href="https://blogs.illinois.edu/webservices/styles/app/blog/overrides.css" type="text/css" media="screen"><script src="https://blogs.illinois.edu/webservices/js/modernizr-latest.js"></script><script type="text/javascript">
+            var contactUrl = '/userRole/7513';
+            var sysFormHeader = document.getElementById("system-form-header");
+            if(typeof(sysFormHeader) !== 'undefined' && sysFormHeader != null) {
+                sysFormHeader.innerHTML = "University of Illinois Police Campus Safety Notices";
+            }
+            var sysFormName = document.getElementById("system-form-name");
+            if(typeof(sysFormName) !== 'undefined' && sysFormName != null) {
+                sysFormName.innerHTML = "University of Illinois Police Campus Safety Notices";
+            }
+            
+					document.title = "University of Illinois Police Campus Safety Notices"; 
+				
+                document.title = document.title + " | Illinois";
+            
+            var sysHeaderImg = document.getElementById("system-header-img");
+            if(typeof(sysHeaderImg) !== 'undefined' && sysHeaderImg != null) {
+                sysHeaderImg.style.display = "none";
+            }
+            var sysHeaderText = document.getElementById("system-header-text");
+            if(typeof(sysHeaderText) !== 'undefined' && sysHeaderText != null) {
+                sysHeaderText.style.display = "block";
+                sysHeaderText.innerHTML = "University of Illinois Police Campus Safety Notices";
+            }
+            //document.getElementById("system-form-header").innerHTML = "University of Illinois Police Campus Safety Notices";//document.getElementById("system-form-name").innerHTML = "University of Illinois Police Campus Safety Notices";
+            var homeUrl = '/view/7513';
+            </script><iframe style="height:1px;position:absolute;top:-40000px;left:-40000px;" src="https://blogs.illinois.edu/ga_blogs/7513/blog.html"></iframe><form name="portal_form" target="_self" method="get" action="/view/7513" onsubmit="return submitTheForm()"><input type="hidden" name="ACTION" id="ACTION"><input type="hidden" name="BLOG_id" value="7513"><input type="hidden" name="DIALOG_id"><input type="hidden" name="count"><input type="hidden" name="screen" id="screen" value="home"><script type="text/javascript" src=""></script><link rel="stylesheet" href="https://blogs.illinois.edu/webservices/styles/app/blog/image-lightbox.css" type="text/css"><style type="text/css">
+            
+            .legacy{
+                display:none;
+            }
+            #uofi #ws-pa #edu-il #blog-home-view .blog-post
+            {
+                width: 100%;
+            }
+            /*
+            h1#mc{
+                display:none;
+            }
+            */
+            h1#mc {
+                left: -2000px;
+                position:absolute;
+                top: -2000px;
+            }
+            .clear{
+                clear:both;
+            }
+            
+            
+                    #uofi #ws-pa #edu-il .thumb-left .blog-post-title, 
+                    #uofi #ws-pa #edu-il .thumb-left .blog-post-meta, 
+                    #uofi #ws-pa #edu-il .thumb-left .blog-post-body, 
+                    #uofi #ws-pa #edu-il .thumb-left .blog-post-footer, 
+                    #uofi #ws-pa #edu-il .thumb-left .quick-share 
+                    {
+                        margin-left: 200px
+                            ;
+                        jrw:go;
+                    }
+                    #uofi #ws-pa #edu-il .thumb-right .blog-post-title, 
+                    #uofi #ws-pa #edu-il .thumb-right .blog-post-meta, 
+                    #uofi #ws-pa #edu-il .thumb-right .blog-post-body, 
+                    #uofi #ws-pa #edu-il .thumb-right .blog-post-footer, 
+                    #uofi #ws-pa #edu-il .thumb-right .quick-share 
+                    {
+                        margin-right: 200px
+                            ;
+                    }
+                
+                #uofi #ws-pa #edu-il #blog-article-view .blog-post .img-and-caption 
+                {
+                width: 100%; 
+            }
+            
+            #uofi #ws-pa #edu-il #blog-home-view .blog-post-entry 
+            {
+                height: auto;
+            }
+                    #uofi #ws-pa #edu-il #blog-home-view .gadget-container 
+                    {
+                       jrw: margin: 0 [value]; (our blog post margin value) ::: what should this be?
+                    }
+                
+            
+            #uofi #ws-pa #edu-il .bp-embedded-image-thumb {
+                float: left;
+                margin-right: 12px;
+                
+                        max-width: 180px;
+                    
+            }
+            #uofi #ws-pa #edu-il .bp-embedded-image-large {
+                float: left;
+                margin-right: 12px;
+                
+                        width: 100%;
+                    
+            }</style><script type="text/javascript">
+            var viewport = document.getElementsByName('viewport');
+            if(viewport.length === 0)
+            {
+                var meta = document.createElement('meta');
+                    meta.name = 'viewport';
+                    meta.content = 'width=device-width, initial-scale=1, maximum-scale=1';
+                var head = document.getElementsByTagName('head')[0];
+                    head.appendChild(meta);
+            }
+            
+            
+            if (typeof(document.getElementById('content_legacy')) != 'undefined' && document.getElementById('content_legacy') != null){
+                document.getElementById('content_legacy').id = 'content_legacy_off';
+            }
+
+            var skinAppHeaderBackgroundcolor = '';
+            var skinBackgroundcolor = '';
+            var skinAppHeaderLinkColor = '';
+            var skinContentBackgroundcolor = '';
+            var skinAppFooterActionsLinkColor = '';
+            var skinAppGadgetsHeadingBackgroundcolor = '';
+            var skinAppGadgetsBackgroundcolor = '';
+            var skinAppGadgetsHeadingTitleColor = '';
+            var skinAppHeaderTitleLine1Color = '';
+            var skinAppHeaderTitleLine2Color = '';
+            var skinBlogPostCommentBackgroundcolor = '';
+            var applyColorFromSkinDesigner = 'false'; 
+            var appHeaderBannerFileName = '';
+            
+            document.write("<style>");
+            
+            if(applyColorFromSkinDesigner == 'false')
+            {
+                document.write("#wt #uofi #ws-pa #edu-il #blog-header {");
+                document.write("background-color:" + setColor(skinAppHeaderBackgroundcolor));
+                document.write("}");
+            }
+            
+            if(applyColorFromSkinDesigner == 'false')
+            {
+                document.write("body {");
+                document.write("background-color:" + setColor(skinBackgroundcolor));
+                document.write("}");
+            }
+            
+            if(applyColorFromSkinDesigner == 'false')
+            {
+                document.write("#wt #uofi #ws-pa #edu-il #blog-level-menu a, #wt #uofi #ws-pa #edu-il #search-bar button, #wt #uofi #ws-pa #edu-il #blog-level-menu li {");
+                document.write("color:" + setColor(skinAppHeaderLinkColor));
+                document.write("}");
+            }
+            
+            document.write("body #container, #wt #uofi #ws-pa #edu-il  #blog-wrapper  {");
+            document.write("background-color:" + setColor(skinContentBackgroundcolor));
+            document.write("}");
+            
+            if(applyColorFromSkinDesigner == 'false')
+            {
+                document.write("#wt #uofi #ws-pa #edu-il .blog-closing-section a {");
+                document.write("color:" + setColor(skinAppFooterActionsLinkColor));
+                document.write("}");
+            }
+            
+            if(applyColorFromSkinDesigner == 'false')
+            {
+                document.write("#wt #uofi #ws-pa #edu-il h3.gadget-header {");
+                document.write("background-color:" + setColor(skinAppGadgetsHeadingBackgroundcolor));
+                document.write("}");
+            }
+            
+            if(applyColorFromSkinDesigner == 'false')
+            {
+                document.write("#wt #uofi #ws-pa #edu-il .blog-gadget {");
+                document.write("background-color:" + setColor(skinAppGadgetsBackgroundcolor));
+                document.write("}");
+            }
+            
+            if(applyColorFromSkinDesigner == 'false')
+            {
+                document.write("#wt #uofi #ws-pa #edu-il h3.gadget-header {");
+                document.write("color:" + setColor(skinAppGadgetsHeadingTitleColor));
+                document.write("}");
+            }
+            
+            if(applyColorFromSkinDesigner == 'false')
+            {
+                document.write("#wt #uofi #ws-pa #edu-il #blog-title a, #wt #uofi #ws-pa #edu-il #blog-title a:hover, #wt #uofi #ws-pa #edu-il div.title {");
+                document.write("color:" + setColor(skinAppHeaderTitleLine1Color));
+                document.write("}");
+            }
+            
+            if(applyColorFromSkinDesigner == 'false')
+            {
+                document.write("#wt #uofi #ws-pa #edu-il .blog-description {");
+                document.write("color:" + setColor(skinAppHeaderTitleLine2Color));
+                document.write("}");
+            }
+            
+            document.write("#wt #uofi #ws-pa #edu-il .blog-post-comments-section {");
+            document.write("background-color:" + setColor(skinBlogPostCommentBackgroundcolor));
+            document.write("}");
+            
+            
+            if (typeof(isHeaderImage) != 'undefined' && isHeaderImage != null){
+                if(isHeaderImage == 'false' && appHeaderBannerFileName.length > 0)
+                {
+                    document.write("#container {");
+                    document.write("max-width:100%;");
+                    document.write("}");
+                }
+            }            
+            
+            document.write("</style>");
+            
+            function setColor(values)
+            {
+                if(values != '')
+                {
+                    if(values.indexOf(",") == -1){
+                        if(values == 'transparent' || values == 'TRANSPARENT'){
+                            return values;
+                        }
+                        else{
+                            return "#" + values;
+                        }
+                    }
+                    var tempValues = values.split(",");  
+                    var skinColor = tempValues[0];
+                    var multiplier = tempValues[1];
+                    if(skinColor == 'color1')
+                    {
+                        var colorR = convert(multiplier, hexToR(skinColor1));   
+                        var colorG = convert(multiplier, hexToG(skinColor1)); 
+                        var colorB = convert(multiplier, hexToB(skinColor1));  
+                    }
+                    else
+                    {
+                        var colorR = convert(multiplier, hexToR(skinColor1));   
+                        var colorG = convert(multiplier, hexToG(skinColor1)); 
+                        var colorB = convert(multiplier, hexToB(skinColor1));  
+                    }
+                    return rgbToHex(colorR, colorG, colorB);
+                }
+            }
+            function hexToR(h) {return parseInt((cutHex(h)).substring(0,2),16)}
+            function hexToG(h) {return parseInt((cutHex(h)).substring(2,4),16)}
+            function hexToB(h) {return parseInt((cutHex(h)).substring(4,6),16)}
+            function cutHex(h) {return (h.charAt(0)=="#") ? h.substring(1,7):h}
+            function convert(mulitplier, color){
+            var x1 = 255 - color;
+            var x2 = x1 * mulitplier;
+            var xC = color + x2;
+            return Math.round(xC);
+            }
+            function rgbToHex(r, g, b) {
+            return "#" + ((1 << 24) + (r << 16) + (g << 8) + b).toString(16).slice(1);
+            }
+        </script><div id="dskCont"><div id="contDiv"><div id="wt"><div id="legacy"><div id="uofi"><div id="ws-pa"><div id="edu-il"><div id="blog-wrapper" class="home-view"><h2 class="place-off-screen">blog navigation</h2><header id="blog-header" class="branding-area"><div class="header-elements"><div id="blog-level-menu"><nav role="navigation"><ul><li><a href="/view/7513">All Safety Notices</a></li></ul></nav></div></div><div class="clear"></div></header><div class="mobile-nav" id="mobile-nav" style="display:none;"><div class="arrow-up"></div></div><script type="text/javascript">
+            
+            if(navigationLinks.length > 0)
+            {
+                var ul = document.createElement('ul');
+                for(var i = 0; i < navigationLinks.length; i++)
+                {
+                    var li = document.createElement('li');
+                    li.innerHTML = "<a href=\"" + navigationLinks[i][1] + "\" target=\"_blank\">" + navigationLinks[i][0] + "</a>";
+                    ul.appendChild(li);
+                }
+                document.getElementById('mobile-nav').appendChild(ul);
+            }
+        </script><div class=" column-layout-1" id="content-full-width"><section id="ws-content" class="gadgets-right"><article id="blog-home-view"><div><h2 class="place-off-screen">blog posts</h2><ul class="blog-posts-wrapper"><li class="blog-post "><div id="entry-573749" class="blog-post-entry blog-post-entry-1col "><h3 class="blog-post-title"><a href="/view/7513/573749">Campus Safety Notice</a></h3><div class="blog-post-meta"><span class="blog-post-date">Nov 1, 2017 3:15 pm</span></div><div class="blog-post-body blog-post-summary"><p>On Wednesday, November 1, the University of Illinois Police Department received a report that a student was sexually assaulted at 1:00 am on Tuesday, October 31, 2017, at a fraternity by a person known to the victim. The Champaign Police Department is currently investigating this incident.</p></div></div></li><li class="blog-post "><div id="entry-565641" class="blog-post-entry blog-post-entry-1col "><h3 class="blog-post-title"><a href="/view/7513/565641">Campus Safety Notice</a></h3><div class="blog-post-meta"><span class="blog-post-date">Oct 11, 2017 11:30 am</span></div><div class="blog-post-body blog-post-summary"><p>On Wednesday morning, the University of Illinois Police Department was informed by a Campus Security Authority that a student had inappropriately touched three other students on different occasions, at least two of which occurred at a university residence hall. The offender is a person known to the victims.</p></div></div></li><li class="blog-post "><div id="entry-558000" class="blog-post-entry blog-post-entry-1col "><h3 class="blog-post-title"><a href="/view/7513/558000">Campus Safety Update</a></h3><div class="blog-post-meta"><span class="blog-post-date">Sep 21, 2017 2:00 pm</span></div><div class="blog-post-body blog-post-summary"><p>The University of Illinois Police Department has arrested a student who was identified as the offender in two incidents of sexual violence that took place Aug. 25 and Sept. 16. The student was in custody Thursday at the Champaign County Jail and is awaiting arraignment. For more information about the arrest, visit the University of Illinois Police Department website:&nbsp;<a href="https://blogs.illinois.edu/view/6221/557937">https://blogs.illinois.edu/view/6221/557937</a>.</p></div></div></li><li class="blog-post "><div id="entry-556733" class="blog-post-entry blog-post-entry-1col "><h3 class="blog-post-title"><a href="/view/7513/556733">Campus Safety Notice</a></h3><div class="blog-post-meta"><span class="blog-post-date">Sep 18, 2017 11:30 am</span></div><div class="blog-post-body blog-post-summary"><p>On Sunday night, a Campus Security Authority reported to the University of Illinois Police Department that one student was sexually assaulted and another student was sexually abused in two separate incidents on August 25, 2017 and September 16, 2017 by a single offender known to the victims in a university residence hall.</p></div></div></li><li class="blog-post "><div id="entry-555385" class="blog-post-entry blog-post-entry-1col "><h3 class="blog-post-title"><a href="/view/7513/555385">Campus Safety Notice</a></h3><div class="blog-post-meta"><span class="blog-post-date">Sep 14, 2017 3:00 pm</span></div><div class="blog-post-body blog-post-summary"><p>A U. of I. student reported that a wallet was stolen from a residence hall room between 1-10 a.m. Tuesday, Sept. 12. According to the report, the student was sleeping in the room at the time of the burglary, and the door was locked.</p></div></div></li><li class="blog-post "><div id="entry-522103" class="blog-post-entry blog-post-entry-1col "><h3 class="blog-post-title"><a href="/view/7513/522103">Community Safety Update</a></h3><div class="blog-post-meta"><span class="blog-post-date">Jun 21, 2017 1:30 pm</span></div><div class="blog-post-body blog-post-summary"><p>Investigators from the University of Illinois Police Department, Illinois State Police and the FBI continue to work around the clock to find Yingying Zhang. We have received hundreds of tips, and detectives are making use of every technological and human resource available to move toward a resolution as quickly as possible.</p></div></div></li><li class="blog-post ws-cat-Crime-Alerts"><div id="entry-518379" class="blog-post-entry blog-post-entry-1col "><h3 class="blog-post-title"><a href="/view/7513/518379">Community Safety Update</a></h3><div class="blog-post-meta"><span class="blog-post-date">Jun 12, 2017 8:00 am</span></div><div class="blog-post-body blog-post-summary"><p>We are writing to update you on our search for Yingying Zhang, a 26-year-old visiting scholar who has been missing since Friday afternoon. Our investigation is ongoing, and we are continuing to pursue a number of routes which we hope will help us find Ms. Zhang.</p></div></div></li><li class="blog-post ws-cat-Crime-Alerts"><div id="entry-518376" class="blog-post-entry blog-post-entry-1col "><h3 class="blog-post-title"><a href="/view/7513/518376">Community Safety Notice</a></h3><div class="blog-post-meta"><span class="blog-post-date">Jun 11, 2017 8:00 am</span></div><div class="blog-post-body blog-post-summary"><p>We are asking for your help in our search for a fellow member of our campus community who is missing.</p></div></div></li><li class="blog-post ws-cat-Crime-Alerts"><div id="entry-518389" class="blog-post-entry blog-post-entry-1col "><h3 class="blog-post-title"><a href="/view/7513/518389">Attempted Robbery</a></h3><div class="blog-post-meta"><span class="blog-post-date">Apr 3, 2017 8:00 am</span></div><div class="blog-post-body blog-post-summary"><p>Attempted robbery took place between 11:00 a.m. and 11:30 a.m. on Tuesday, March 28, 2017 in the area of 600 South Gregory Street in Urbana.</p></div></div></li><li class="blog-post ws-cat-Crime-Alerts"><div id="entry-518415" class="blog-post-entry blog-post-entry-1col "><h3 class="blog-post-title"><a href="/view/7513/518415">Campus Safety Notice</a></h3><div class="blog-post-meta"><span class="blog-post-date">Feb 12, 2017 9:00 pm</span></div><div class="blog-post-body blog-post-summary"><p>The University of Illinois Police Department has received a report that a student was sexually assaulted at approximately 3:30 a.m. on Sunday, February 12, 2017, at a residence hall in Champaign by a person known to the victim.</p></div></div></li></ul></div></article><div class="paging-menu-bottom"><ul class="paging-controls"><li class="back"><a class="blog-pagination-button blog-previous-page" href="/view/7513?ACTION=HOMEPAGE&amp;displayOrder=desc&amp;displayColumn=created&amp;displayCount=10&amp;queryTag=0"><i class="fa fa-chevron-left"></i> view previous</a></li><li class="page"><span>3</span></li><li class="next"><a class="blog-pagination-button blog-next-page" href="/view/7513?ACTION=HOMEPAGE&amp;displayOrder=desc&amp;displayColumn=created&amp;displayCount=30&amp;queryTag=0"> view next <i class="fa fa-chevron-right"></i></a></li></ul></div></section></div><section class="blog-closing-section"><ul class="blog-features"><li class="blog-feature-subscribe"><a href="/publicSubscribe?blogId=7513"><i class="fa fa-check-square"></i>&nbsp;Subscribe (1261)</a></li></ul></section></div></div></div></div></div></div></div></div><script type="text/javascript">
+            if(navigationLinks.length > 0){
+                document.getElementById('nav-menu').style.display="inline-block";
+            }
+        </script></form><meta name="viewport" content="initial-scale=1.0"><script type="text/javascript">
+            var blogId = '7513';
+            var screen= 'home';
+            var imageWidth = 100; //get from XML
+            var textWrap = 'false';
+            var isGadgetUsed = 'false';
+            var content = document.getElementById('blog-wrapper');
+            var width = document.getElementById('contDiv').offsetWidth;
+            var contentColumn;
+            var contentImages;
+            var widgetWidth = 250;
+            var widgetPadding = 12;
+            var contentMinWidthToMobile=480;
+            var mobileMaxWidthToDesktop=480;
+            var mode='firstTime';
+            var deviceSize = screen.width;
+            //
+            function setWidths()
+            {
+                if(mode === 'desktop' && isGadgetUsed === 'true')
+                {
+                    //content.style.width = (width - widgetWidth - 3) + 'px'; 
+                    //setContentColumnWidth(widgetWidth + widgetPadding); 
+                    //setContentImageMaxWidth(widgetWidth);
+                }
+                else{
+                    //content.style.width = width + 'px';
+                    // setContentColumnWidth(widgetPadding); 
+                    // setContentImageMaxWidth('0');
+                }
+            }
+            if(window.attachEvent) 
+            {
+                window.attachEvent('onresize', function() {
+                    width = document.getElementById('contDiv').offsetWidth;
+                    setWidths();
+                    var searchBar=document.getElementById("search-bar");
+                    setSearchClass();
+                });
+            }
+            else if(window.addEventListener) 
+            {
+                window.addEventListener('resize', function() {
+                    width = document.getElementById('contDiv').offsetWidth;
+                    setWidths();
+                    var searchBar=document.getElementById("search-bar");
+                    contentWidthForSearch = document.getElementById("contDiv").clientWidth;
+                    setSearchClass();
+                    
+                    }, true);
+            }
+            else
+            {
+                //not supported
+            }
+            function setSearchClass(){
+                if (typeof(searchBar) != 'undefined' && searchBar != null)
+                {
+                    contentWidthForSearch = document.getElementById("contDiv").clientWidth;
+                    if(contentWidthForSearch < contentMinWidthToMobile + 1)
+                    {
+                        if(navigationLinks.length > 0)
+                        {
+                            searchBar.className="open-search additional-nav";
+                        }
+                        else
+                        {
+                            searchBar.className="open-search"
+                        }
+                    }
+                    else
+                    {
+                        searchBar.className="close-search";
+                    }
+                }
+            }
+            function setContentColumnWidth(offset){
+                if (typeof(document.getElementById('blog-posts')) != 'undefined' && document.getElementById('blog-posts') != null){
+                    contentColumn = document.getElementById('blog-posts').getElementsByClassName('blog-post-summary');
+                    if (typeof(contentColumn) != 'undefined' && contentColumn != null)
+                    {
+                        if(textWrap == 'false'){
+                            for(i=0; i<contentColumn.length; i++){
+                                contentColumn[i].style.width = (width - imageWidth - offset) + 'px';
+                            }
+                        }
+                    }
+                }
+            }
+            function setContentImageMaxWidth(colSize){
+                if (typeof(document.getElementById('blog-posts')) != 'undefined' && document.getElementById('blog-posts') != null){
+                    contentImages = document.getElementById('blog-posts').getElementsByTagName('img');
+                    for(i=0; i<contentImages.length; i++){
+                        contentImages[i].style.maxWidth = width - colSize +'px';
+                    }
+                }
+            }
+            function setSearch(){
+                if (document.getElementById('search-box').style.display == 'none'){
+                    document.getElementById('search-box').style.display='block';
+                }
+                else{
+                    document.getElementById('search-box').style.display='none';
+                }
+            }
+            function setSort(){
+                if (document.getElementById('sort-box').style.display == 'none'){
+                    document.getElementById('sort-box').style.display='block';
+                }
+                else{
+                    document.getElementById('sort-box').style.display='none';
+                }
+            }
+            //
+            if (typeof(document.getElementById('search-box')) != 'undefined' && document.getElementById('search-box') != null){
+                document.getElementById('search-box').style.display='none';
+            }
+            if (typeof(document.getElementById('sort-box')) != 'undefined' && document.getElementById('sort-box') != null){
+                document.getElementById('sort-box').style.display='none';
+            }
+        </script><script type="text/javascript">
+            function linkDelete(linkId) 
+            {
+                var link = document.getElementById(linkId);
+                var parent = link.parentNode;
+                parent.removeChild(link); 
+            }
+            function linkReplace(linkFileName, linkId)
+            {
+                var oldLink = document.getElementById(linkId);
+                var newLink = document.createElement('link');
+                newLink.rel = 'stylesheet';
+                newLink.type = 'text/css';
+                newLink.href = linkFileName;
+                newLink.setAttribute('id', linkId);
+                var parent = oldLink.parentNode;
+                parent.insertBefore(newLink, oldLink);
+                parent.removeChild(oldLink);
+            }
+            function linkNew(linkFileName, linkId) 
+            {
+                var newlink = document.createElement("link");
+                newlink.rel="stylesheet";
+                newlink.type="text/css";
+                newlink.href=linkFileName;
+                newlink.setAttribute("id", linkId);
+                var dskCont = document.getElementById('dskCont');
+                var formEl = dskCont.parentNode;
+                formEl.insertBefore(newlink, dskCont);
+            }
+            function jsUpdateSize()
+            {
+                var isResponsive;
+                if (typeof(added_by_webtools_is_responsive) != 'undefined' && added_by_webtools_is_responsive != null)
+                {
+                    isResponsive = true;
+                }
+                else
+                {
+                    isResponsive = false;
+                }
+                
+                deviceSize = document.body.offsetWidth;
+                var contDiv= document.getElementById("contDiv");
+                var contentWidth = contDiv.clientWidth;
+                if(mode==='firstTime')
+                {
+                    if((deviceSize < contentMinWidthToMobile+1) || (contentWidth < (contentMinWidthToMobile+1)))
+                    {
+                        mode='mobile';
+                        if(navigationLinks.length > 0)
+                        {
+                            //document.getElementById('mobile-nav').style.display = 'block';
+                        }
+                        var desktopWrapper = document.getElementById("desktop-wrapper");
+                        var mobileWrapper = document.getElementById("mobile-wrapper");
+                        var mobileContent = document.getElementById("mobile-content");
+                        linkNew('https://webservices.illinois.edu/webservices/styles/app/blog/640.css','link_skin_application');
+                        if (typeof(document.getElementById('nav-menu')) != 'undefined' && document.getElementById('nav-menu') != null)
+                        {
+                            if (typeof(appUiColor) != 'undefined' && appUiColor != null)
+                            {
+                                document.getElementById('nav-menu').style.backgroundColor = appUiColor;
+                            }
+                        }
+                        var sharebarElements = document.querySelectorAll('.share-bar');
+                        for(var index = 0, length = sharebarElements.length; index < length; index++)
+                        {
+                            var sharebar = sharebarElements[index];
+                            sharebar.style.backgroundColor = contentLinkColor;
+                        }
+                        //
+                        if(isResponsive == false)
+                        {
+                            if (typeof(desktopWrapper) != 'undefined' && desktopWrapper != null)
+                            {
+                                mobileContent.appendChild(contDiv);
+                                desktopWrapper.style.display="none";
+                                mobileWrapper.style.display="block";
+                            }
+                        }
+                        var navMenu = document.getElementById('nav-menu');
+                        var navMenuClass = navMenu.className;
+                        var mobileMenu = document.getElementById('mobile-nav');                        
+                        var mobileMenuClass = mobileMenu.className;
+                        //
+                        if(navMenuClass.indexOf('active') > -1)
+                        {                                        
+                            navMenu.className = navMenuClass.substring(0, navMenuClass.indexOf('active') - 1);
+                            mobileMenu.className = mobileMenuClass.substring(0, mobileMenuClass.indexOf('active') - 1);
+                        }
+                    }
+                    else
+                    {
+                        mode='desktop';
+                        linkNew('https://webservices.illinois.edu/webservices/styles/app/blog/sample481_plus.css','link_skin_application');
+                    }
+                }
+                else if((deviceSize < contentMinWidthToMobile+1) || (contentWidth < (contentMinWidthToMobile+1) && mode!=="mobile"))
+                {
+                    mode='mobile';
+                    if(navigationLinks.length > 0)
+                    {
+                        //document.getElementById('mobile-nav').style.display = 'block';
+                    }
+                    linkReplace('https://webservices.illinois.edu/webservices/styles/app/blog/640.css','link_skin_application');
+                    if (typeof(document.getElementById('nav-menu')) != 'undefined' && document.getElementById('nav-menu') != null)
+                    {
+                        if (typeof(appUiColor) != 'undefined' && appUiColor != null)
+                        {
+                            document.getElementById('nav-menu').style.backgroundColor = appUiColor;
+                        }
+                    }
+                    var sharebarElements = document.querySelectorAll('.share-bar');
+                    for(var index = 0, length = sharebarElements.length; index < length; index++)
+                    {
+                        var sharebar = sharebarElements[index];
+                        sharebar.style.backgroundColor = contentLinkColor;
+                    }
+                    //
+                    var dskCont = document.getElementById("dskCont");
+                    var mobileContent = document.getElementById("mobile-content");
+                    var mobileWrapper = document.getElementById("mobile-wrapper");
+                    var desktopWrapper = document.getElementById("desktop-wrapper");
+                
+                    if(isResponsive == false)
+                    {
+                        if (typeof(desktopWrapper) != 'undefined' && desktopWrapper != null)
+                        {
+                            mobileContent.appendChild(contDiv);
+                            desktopWrapper.style.display="none";
+                            mobileWrapper.style.display="block";
+                            mobileMaxWidthToDesktop=window.innerWidth;
+                        }
+                    }
+                
+                    var navMenu = document.getElementById('nav-menu');
+                    var navMenuClass = navMenu.className;
+                    
+                    var mobileMenu = document.getElementById('mobile-nav');                        
+                    var mobileMenuClass = mobileMenu.className;
+                
+                    if(navMenuClass.indexOf('active') > -1)
+                    {                                        
+                        navMenu.className = navMenuClass.substring(0, navMenuClass.indexOf('active') - 1);
+                        mobileMenu.className = mobileMenuClass.substring(0, mobileMenuClass.indexOf('active') - 1);
+                    }
+                }
+                else if(contentWidth > mobileMaxWidthToDesktop && mode!=="desktop")
+                {
+                    mode='desktop';
+                    linkReplace('https://webservices.illinois.edu/webservices/styles/app/blog/sample481_plus.css','link_skin_application');
+                    if (typeof(document.getElementById('nav-menu')) != 'undefined' && document.getElementById('nav-menu') != null)
+                    {
+                        document.getElementById('nav-menu').style.backgroundColor='';
+                    }                    
+                    //
+                    var desktopWrapper = document.getElementById("desktop-wrapper");
+                    var dskCont = document.getElementById("dskCont");
+                    var mobileWrapper = document.getElementById("mobile-wrapper");
+                    if(isResponsive == false)
+                    {
+                        if (typeof(desktopWrapper) != 'undefined' && desktopWrapper != null)
+                        {
+                            dskCont.appendChild(contDiv);
+                            desktopWrapper.style.display="block";
+                            mobileWrapper.style.display="none";
+                        }
+                    }
+                    document.getElementById('mobile-nav').style.display = 'none';
+                }
+            }
+            
+            var responsive;
+            function setResponsiveState()
+            {
+                if (typeof(added_by_webtools_is_responsive) != 'undefined' && added_by_webtools_is_responsive != null)
+                {
+                    responsive = true;
+                }
+                else
+                {
+                    var responsive = false;
+                    var wrapperDiv = document.createElement("div");
+                    wrapperDiv.id = "desktop-wrapper";
+                    while (document.body.firstChild)
+                    {
+                        wrapperDiv.appendChild(document.body.firstChild);
+                    }
+                    var mobileWrapper = document.createElement("div");
+                    mobileWrapper.id = "mobile-wrapper";
+                    var mobileContent = document.createElement("div");
+                    mobileContent.id = "mobile-content";
+                    document.body.appendChild(wrapperDiv);
+                    document.body.appendChild(mobileWrapper);
+                    mobileWrapper.appendChild(mobileContent);
+                }
+            }
+            
+            function onStartUp()
+            {   
+                setResponsiveState();
+                window.onresize = jsUpdateSize;
+                setWidths();
+                if(mode == 'mobile')
+                {
+                    //document.getElementById('search-bar').className='open-search';
+                }    
+            }
+            var currentUrl = "" + window.location;
+            if(currentUrl.indexOf('scale=true') == -1)
+            {
+                window.onload = onStartUp;
+            }  
+        </script><script>
+            jsUpdateSize();
+            setWidths();
+        </script> </article>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- #content --> 
+        </div>
+        <!-- #primary --> 
+        
+    </div>
+    <footer id="footer" role="contentinfo">
+        <div class="">
+            <div class="footer-logo"><a href="http://police.illinois.edu" rel="home" class="title-link"> <img class="site-title" src="https://skins.webservices.illinois.edu/files/16223/uipd-wordmark.png" alt="University of Illinois Police Department" /> </a> </div>
+            <nav class="footer-nav">
+                <ul>
+                    <li><a href="http://police.illinois.edu/contact-us/">contact</a></li>
+                    <li><a href="http://police.illinois.edu/about/">about</a></li>
+                    <li><a href="http://police.illinois.edu/employment/">employment</a></li>
+                    <li><a href="https://www.vpaa.uillinois.edu/resources/web_privacy">privacy</a></li>
+                </ul>
+            </nav>
+        </div>
+        <div class="social-container">
+            <p id="social-alerts" class="social-media"> <a href="https://www.facebook.com/illinialert/" target="_blank"><i class="fa fa-facebook"></i></a> <a href="https://twitter.com/illinialert" target="_blank"><i class="fa fa-twitter"></i></a> for Illini Alerts </p>
+            <p id="social-department" class="social-media"> <a href="https://www.facebook.com/UIpolice" target="_blank"><i class="fa fa-facebook"></i></a> <a href="https://twitter.com/UIPD" target="_blank"><i class="fa fa-twitter"></i></a> <a href="https://instagram.com/uipolice" target="_blank"><i class="fa fa-instagram"></i></a> for Police Department </p>
+        </div>
+        <p class="address"> <a href="https://goo.gl/maps/LXcUJBf5eKT2" target="_blank">1110 W. Springfield Ave Urbana, IL 61801</a> </p>
+    </footer>
+    <a title="Go to top of the page" class="back-to-top" href="#top" aria-label="Go to top of the page"><span class="fa fa-chevron-up"></span></a> </div>
+<!-- end .body-wrap -->
+
+</body>
+<script>
+$(function() {
+$('#menu-main-menu').smartmenus({
+showTimeout: 0,
+hideTimeout: 0,
+subIndicators: false,
+subMenusMinWidth:'',
+subMenusMaxWidth:''
+});
+$('#menu-main-menu').smartmenus('keyboardSetHotkey', 123, 'shiftKey');
+});
+
+
+$(function() {
+$('#responsive-main-menu').smartmenus({
+
+subIndicators: false,
+hideOnClick: false
+});
+$('#responsive-main-menu').smartmenus('keyboardSetHotkey', 123, 'shiftKey');
+});
+</script>
+
+<!-- End Google Analytics -->
+
+</html>
