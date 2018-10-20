@@ -1,0 +1,26 @@
+#!/usr/bin/bash
+
+# This program expects as input CSVs
+# with these columns:
+
+# id,date,short_description,link
+
+# It fetches the long description of each entry
+# and writes it to the file "descriptions/$id.txt".
+
+if [ ! -d "descriptions" ]; then
+    mkdir "descriptions"
+fi
+
+# tail -n +2 skips the header
+tail -n +2 | while read line; do
+    link="$(printf "$line" | tr ',' '\n' | tail -n1 | tr -d '"')"
+    id="$(printf "$line" | cut -d, -f1)"
+    dest="descriptions/$id.txt"
+    printf 'Writing description from %s to %s...\n' "$link" "$dest"
+    curl -s "$link" | \
+        tr -d '\n' | \
+        sed -E 's|.*<div class="blog-post-info">(.*)</div><div.*|\1|' \
+            > "$dest"
+    sleep 30s
+done
