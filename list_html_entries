@@ -1,3 +1,4 @@
 #!/usr/bin/bash
-sed 's/<li class="blog-post/\
-<li class="blog-post/g' | grep -o '<li class="blog-post.*</li>'
+tr -d '\n' | sed 's/<li class="blog-post/\
+<li class="blog-post/g' | sed 's/<\/ul>/\
+<\/ul>/g' | grep -o '<li class="blog-post.*</li>'

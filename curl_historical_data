@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+for displayCount in `seq 0 10 100`; do
+    curl 'https://blogs.illinois.edu/view/7513?ACTION=HOMEPAGE&displayOrder=desc&displayColumn=created&displayCount='"$displayCount"'&queryTag=0' > "$displayCount".html
+    sleep 1s
+done

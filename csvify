@@ -1,0 +1,12 @@
+#!/usr/bin/bash
+entries_file="$(mktemp)"
+./list_html_entries > "$entries_file"
+
+printf 'id,date,short_description,link\n'
+paste -d, \
+      <(cat "$entries_file" | ./extract_ids) \
+      <(cat "$entries_file" | ./extract_dates) \
+      <(cat "$entries_file" | ./extract_short_descriptions) \
+      <(cat "$entries_file" | ./extract_links)
+
+rm "$entries_file"

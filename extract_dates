@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+sed -E 's|^.*<span class="blog-post-date">(.*)</span>.*$|"\1"|'

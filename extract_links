@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+./extract_ids | sed -E 's|(.*)|"https://blogs.illinois.edu/view/7513/\1"|'
