@@ -1,4 +1,4 @@
-# UIUC Campus Safety Notices Tools
+# UIUC Campus Safety Notices Toolkit
 
 This repository contains a number of minimal tools
 which can be used to fetch and parse information about
@@ -23,9 +23,9 @@ something more robust.
 
 `fetch_long_descriptions` takes as input CSVs (like the
 kind output by `csvify`) and writes the long
-description of each saftey notice to a file in the
+description of each safety notice to a file in the
 `descriptions/` directory, where the file name
-corresponds to the ID of the campus saftey notice, as
+corresponds to the ID of the campus safety notice, as
 listed in the CSVs.
 
 ## Extracting Attributes of Crimes
@@ -40,15 +40,47 @@ assaults, grep for the word 'sexual':
 $ grep 'sexual' descriptions/*.txt --color=always | less -R
 ```
 
-The `--color=always` flag makes the output easier to
+*The `--color=always` flag makes the output easier to
 read. Piping the output to `less` allows for the
 perusal of grep output, without it blowing up your
 terminal. The `-R` flag to `less` maintains the color
-of the grep output.
+of the grep output.*
 
-(Of course, this is only a heuristic. To determine the
-exact number of crimes which were sexual assaults, one
-would have to manually read the description of each.)
+It's easy to skim this output and verify that the
+crimes were, in fact, sexual assaults. Now, we must
+count the total number of them and compare it to the
+total number of crimes.
+
+`grep` outputs each line which
+has an occurence of the term 'sexual' and each file in
+descriptions/ is exactly one line long; the problem of
+counting the number of sexual assaults is reduced to
+the problem of counting the number of lines of grep
+output:
+
+```
+$ grep 'sexual' descriptions/*.txt | wc -l
+25
+```
+
+We see that 16 of the crimes were sexual assaults. Now,
+compare to the total number of crimes, which is
+equivalent to the total number of files in the
+descriptions/ directory:
+
+```
+$ ls -l descriptions/ | wc -l
+57
+```
+
+Wow! Nearly half of all the campus safety notices (that
+I had downloaded at the time of writing this README)
+were sexual assaults.
+
+Of course, this method of analysis is only a
+heuristic. To determine the exact number of crimes
+which were sexual assaults, one would have to manually
+read the description of each.
 
 ## License
 
