@@ -63,7 +63,7 @@ $ grep 'sexual' descriptions/*.txt | wc -l
 25
 ```
 
-We see that 16 of the crimes were sexual assaults. Now,
+We see that 25 of the crimes were sexual assaults. Now,
 compare to the total number of crimes, which is
 equivalent to the total number of files in the
 descriptions/ directory:
